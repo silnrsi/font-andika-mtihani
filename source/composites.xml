@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<font>
+  <glyph PSName="LtnCapADiaer" UID="00C4">
+    <base PSName="LtnCapA">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapARingAbv" UID="00C5">
+    <base PSName="LtnCapA">
+      <attach PSName="CombRingAbv" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapCCedilla" UID="00C7">
+    <base PSName="LtnCapC">
+      <attach PSName="CombCedilla" with="_H" at="H"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapEAcute" UID="00C9">
+    <base PSName="LtnCapE">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapNTilde" UID="00D1">
+    <base PSName="LtnCapN">
+      <attach PSName="CombTilde" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapODiaer" UID="00D6">
+    <base PSName="LtnCapO">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapUDiaer" UID="00DC">
+    <base PSName="LtnCapU">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmAAcute" UID="00E1">
+    <base PSName="LtnSmA">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmAGrave" UID="00E0">
+    <base PSName="LtnSmA">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmACircum" UID="00E2">
+    <base PSName="LtnSmA">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmADiaer" UID="00E4">
+    <base PSName="LtnSmA">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmATilde" UID="00E3">
+    <base PSName="LtnSmA">
+      <attach PSName="CombTilde" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmARingAbv" UID="00E5">
+    <base PSName="LtnSmA">
+      <attach PSName="CombRingAbv" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmCCedilla" UID="00E7">
+    <base PSName="LtnSmC">
+      <attach PSName="CombCedilla" with="_H" at="H"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmEAcute" UID="00E9">
+    <base PSName="LtnSmE">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmEGrave" UID="00E8">
+    <base PSName="LtnSmE">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmECircum" UID="00EA">
+    <base PSName="LtnSmE">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmEDiaer" UID="00EB">
+    <base PSName="LtnSmE">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmIAcute" UID="00ED">
+    <base PSName="LtnSmDotlessI">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmIGrave" UID="00EC">
+    <base PSName="LtnSmDotlessI">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmICircum" UID="00EE">
+    <base PSName="LtnSmDotlessI">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmIDiaer" UID="00EF">
+    <base PSName="LtnSmDotlessI">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmNTilde" UID="00F1">
+    <base PSName="LtnSmN">
+      <attach PSName="CombTilde" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmOAcute" UID="00F3">
+    <base PSName="LtnSmO">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmOGrave" UID="00F2">
+    <base PSName="LtnSmO">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmOCircum" UID="00F4">
+    <base PSName="LtnSmO">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmODiaer" UID="00F6">
+    <base PSName="LtnSmO">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmOTilde" UID="00F5">
+    <base PSName="LtnSmO">
+      <attach PSName="CombTilde" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmUAcute" UID="00FA">
+    <base PSName="LtnSmU">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmUGrave" UID="00F9">
+    <base PSName="LtnSmU">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmUCircum" UID="00FB">
+    <base PSName="LtnSmU">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmUDiaer" UID="00FC">
+    <base PSName="LtnSmU">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="NArySummation" UID="2211">
+    <base PSName="LtnCapEsh"/>
+  </glyph>
+  <glyph PSName="NAryProduct" UID="220F">
+    <base PSName="GrCapPi"/>
+  </glyph>
+  <glyph PSName="OhmSgn" UID="2126">
+    <base PSName="GrCapOmega"/>
+  </glyph>
+  <glyph PSName="LtnCapAGrave" UID="00C0">
+    <base PSName="LtnCapA">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapATilde" UID="00C3">
+    <base PSName="LtnCapA">
+      <attach PSName="CombTilde" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapOTilde" UID="00D5">
+    <base PSName="LtnCapO">
+      <attach PSName="CombTilde" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmYDiaer" UID="00FF">
+    <base PSName="LtnSmY">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapYDiaer" UID="0178">
+    <base PSName="LtnCapY">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapACircum" UID="00C2">
+    <base PSName="LtnCapA">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapECircum" UID="00CA">
+    <base PSName="LtnCapE">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapAAcute" UID="00C1">
+    <base PSName="LtnCapA">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapEDiaer" UID="00CB">
+    <base PSName="LtnCapE">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapEGrave" UID="00C8">
+    <base PSName="LtnCapE">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapIAcute" UID="00CD">
+    <base PSName="LtnCapI">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapICircum" UID="00CE">
+    <base PSName="LtnCapI">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapIDiaer" UID="00CF">
+    <base PSName="LtnCapI">
+      <attach PSName="CombDiaer" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapIGrave" UID="00CC">
+    <base PSName="LtnCapI">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapOAcute" UID="00D3">
+    <base PSName="LtnCapO">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapOCircum" UID="00D4">
+    <base PSName="LtnCapO">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapOGrave" UID="00D2">
+    <base PSName="LtnCapO">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapUAcute" UID="00DA">
+    <base PSName="LtnCapU">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapUCircum" UID="00DB">
+    <base PSName="LtnCapU">
+      <attach PSName="CombCircum" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapUGrave" UID="00D9">
+    <base PSName="LtnCapU">
+      <attach PSName="CombGrave" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmSCaron" UID="0161">
+    <base PSName="LtnSmS">
+      <attach PSName="CombCaron" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapSCaron" UID="0160">
+    <base PSName="LtnCapS">
+      <attach PSName="CombCaron" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmYAcute" UID="00FD">
+    <base PSName="LtnSmY">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapYAcute" UID="00DD">
+    <base PSName="LtnCapY">
+      <attach PSName="CombAcute" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnSmZCaron" UID="017E">
+    <base PSName="LtnSmZ">
+      <attach PSName="CombCaron" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="LtnCapZCaron" UID="017D">
+    <base PSName="LtnCapZ">
+      <attach PSName="CombCaron" with="_U" at="U"/>
+    </base>
+  </glyph>
+  <glyph PSName="BulletOperator" UID="2219">
+    <base PSName="MiddleDot"/>
+  </glyph>
+  <glyph PSName="NonBreakingHyphen" UID="2011">
+    <base PSName="HyphenMinus"/>
+  </glyph>
+  <glyph PSName="Hyphen_Soft" UID="00AD">
+    <base PSName="HyphenMinus"/>
+  </glyph>
+</font>

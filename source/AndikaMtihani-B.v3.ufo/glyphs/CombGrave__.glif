@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombGrave" format="2">
+  <advance width="0"/>
+  <unicode hex="0300"/>
+  <anchor x="-590" y="1635" name="U"/>
+  <anchor x="-630" y="1100" name="_U"/>
+  <outline>
+    <contour>
+      <point x="-1050" y="1600" type="line"/>
+      <point x="-650" y="1200" type="line"/>
+      <point x="-410" y="1200" type="line"/>
+      <point x="-700" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <real>-360</real>
+          <key>y</key>
+          <real>0</real>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>
