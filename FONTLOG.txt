@@ -12,12 +12,12 @@ family for testing UFO-based workflows. It is not intended to be generally
 useful as an installable font family, and may change significantly without
 notice. It will always be experimental and may not work as you expect!
 
-The family is based on Andika Basics (https://scripts.sil.org/andika),
+The family is based on Andika New Basic (https://scripts.sil.org/andika),
 but with the following differences:
 
 - The double-storey forms of _a_ and _g_ are used, and the single-storey
 ones are not available. This is to help distinguish the font from the main
-Andika Basics family.
+Andika New Basic family.
 - The character set support has been initially reduced to Mac Roman +
 Windows Codepage 1252 + a few more useful characters.
 - The font source is currently in both UFO version 2 and 3 formats.
@@ -39,7 +39,7 @@ For practical information about using, modifying and redistributing this
 font see OFL-FAQ.txt.
 
 
-Basic Information on Andika Basics
+Basic Information on Andika New Basic
 ----------------------------------
 
 Andika ("Write!" in Swahili) is a sans serif, Unicode-compliant font
@@ -64,7 +64,7 @@ you to download a custom font with your choice of which forms should be
 the default. TypeTuner is also available as a standalone utility -
 (http://scripts.sil.org/TypeTuner).
 
-Andika Basics is a limited-character-set version of Andika that includes
+Andika New Basic is a limited-character-set version of Andika that includes
 a full family of styles (Regular, Bold, Italic and Bold-Italic).
 
 In particular, these fonts do not support:
@@ -73,22 +73,22 @@ In particular, these fonts do not support:
    Greek
    Cyrillic
 
-What is the difference between Andika and Andika Basics?
+What is the difference between Andika and Andika New Basic?
    Andika has a more complete character set comparable to
      Charis SIL and Doulos SIL
-   Andika Basics has a limited character set, supporting only the Basic
+   Andika New Basic has a limited character set, supporting only the Basic
      Latin and Latin-1 Supplement Unicode ranges, plus a selection of the
      more commonly used extended Latin characters, with miscellaneous
      diacritical marks, symbols and punctuation.
-   Andika Basics has all four faces: Regular, Bold, Italic and Bold-Italic
+   Andika New Basic has all four faces: Regular, Bold, Italic and Bold-Italic
 
-What is the difference between Andika Basic (2008) and Andika Basics?
-   Andika Basics has all four faces: Regular, Bold, Italic and Bold-Italic
-   Andika Basics has a few more characters than Andika Basic
-   Andika Basics uses different glyphs for "a" and "r" based characters
+What is the difference between Andika Basic (2008) and Andika New Basic?
+   Andika New Basic has all four faces: Regular, Bold, Italic and Bold-Italic
+   Andika New Basic has a few more characters than Andika Basic
+   Andika New Basic uses different glyphs for "a" and "r" based characters
      than Andika Basic, and are identical to the main Andika font
    Graphite feature identifiers were integers in Andika Basic and are
-     4-character alphanumeric tags in Andika Basics
+     4-character alphanumeric tags in Andika New Basic
 
 
 We are actively working on updating the full-character-set Andika to include
@@ -98,19 +98,18 @@ all four faces (Regular, Bold, Italic and Bold-Italic).
 Features
 --------
 
-Andika Basics has:
+Andika New Basic has:
    OpenType and Graphite smart code for diacritic placement
    A few useful OpenType and Graphite features
    Support for a few more recent additions to Unicode and the SIL PUA
    Character assignments updated to conform to Unicode 7.0
 
-Andika Basics supports a subset of Andika's smart font features:
+Andika New Basic supports a subset of Andika's smart font features:
    Uppercase Eng alternates
    Capital N-left-hook alternate
    Capital Q alternate
    Capital Y-hook alternate
    Literacy alternates -- single-story a and g -- as default glyphs
-   Lower case dotless j alternate
    Modifier apostrophe alternates
    Modifier colon alternate
    Digit Zero with slash
@@ -127,7 +126,7 @@ Andika Basics supports a subset of Andika's smart font features:
    Small y-tail alternate
    Vietnamese-style diacritics
 
-Andika Basics also includes one new feature:
+Andika New Basic also includes one new feature:
    Capital J alternate
 
 More detail on features can be seen at
@@ -161,14 +160,14 @@ ChangeLog
 ----------
 (This should list both major and minor changes, most recent first.)
 
-25 Mar 2015 (SIL NRSI team) Andika Mtihani version 5.500
+21 Apr 2015 (SIL NRSI team) Andika Mtihani version 5.500
 - Reduced character set further, to Mac Roman + Windows Codepage 1252
   + a few more useful characters
 - Switch to double-story forms of _a_ and _g_
 - Converted source to UFO version 3 format
 - Removed OpenType and Graphite code (for now)
 
-23 Mar 2015 (SIL NRSI team) Andika Basics version 5.500
+20 Apr 2015 (SIL NRSI team) Andika New Basic version 5.500
 - Reduced character set to a "Basic" number of characters
 - Added Bold, Italic, and Bold-Italic faces
 - Improved design of U+0254/U+0186 and their .TopSerif alternates
@@ -305,7 +304,7 @@ W: http://scripts.sil.org/
 D: Graphite, OpenType, and TypeTuner code, and build support
 
 
-The Andika, Andika Basic and Andika Basics fonts are maintained by
+The Andika, Andika Basic and Andika New Basic fonts are maintained by
 SIL International.
 
 For more information please visit the Andika page on SIL
