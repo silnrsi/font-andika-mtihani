@@ -1,3 +1,7 @@
+# Copyright (c) 2008-2015, SIL International (http://www.sil.org) with Reserved Font Names 'Andika' and 'SIL'.
+# This Font Software is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL)
+# and is from the Andika Mtihani project (https://github.com/silnrsi/font-andika-mtihani)
+
 # Within each section, lines are in order of resulting Unicode value
 # Invented combinations are assigned Unicode values starting with E000
 # Version 1, DLR 015-04-20
