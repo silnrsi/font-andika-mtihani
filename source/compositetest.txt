@@ -4,12 +4,12 @@
 
 # Within each section, lines are in order of resulting Unicode value
 # Invented combinations are assigned Unicode values starting with E000
-# Version 1, DLR 015-04-20
+# Version 2, DLR 2015-06-25 use & for joining two base glyphs
 #
-# Test _ for joining two base glyphs
-LtnCapIJ = LtnCapI _ LtnCapJ |0132
-LtnSmIJ = LtnSmI _ LtnSmJ |0133
-LntCapLMiddleDot = LtnCapL _ MiddleDot |013F
+# Test & for joining two base glyphs
+LtnCapIJ = LtnCapI & LtnCapJ |0132
+LtnSmIJ = LtnSmI & LtnSmJ |0133
+LntCapLMiddleDot = LtnCapL & MiddleDot |013F
 #
 # Test base + diacritic@AP
 LtnCapCAcute = LtnCapC + CombAcute@U |0106
