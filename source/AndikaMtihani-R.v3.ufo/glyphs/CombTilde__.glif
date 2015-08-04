@@ -2,6 +2,8 @@
 <glyph name="CombTilde" format="2">
   <advance width="0"/>
   <unicode hex="0303"/>
+  <anchor x="-575" y="1475" name="U"/>
+  <anchor x="-575" y="1100" name="_U"/>
   <outline>
     <component base="SmTilde" xOffset="-925"/>
   </outline>
