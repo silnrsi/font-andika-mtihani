@@ -28,11 +28,6 @@ may not work as you expect!
 DESC_NAME = "AndikaMtihani"
 DEBPKG = 'fonts-sil-andika-mtihani'
 
-# set the build and test parameters
-mytest = fonttest(targets = {
-        'pdfs' : tex(),
-    })
-
 for style in ('-R','-B','-I','-BI') :
     font(target = FILENAMEBASE + style + '.ttf',
         source = 'source/' + FILENAMEBASE + style + '.ufo',
@@ -40,6 +35,5 @@ for style in ('-R','-B','-I','-BI') :
         license = ofl('Andika'),
         script = 'latn',
         fret = fret(params = '-r'),
-        woff = woff(),
-        tests = mytest
+        woff = woff()
     )
