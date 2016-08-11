@@ -11,7 +11,7 @@ TESTRESULTSDIR = 'test-results'
 STANDARDS = 'standards'
 
 # set the font name, version, licensing and description
-APPNAME="Andika Mtihani"
+APPNAME="AndikaMtihani"
 FILENAMEBASE="AndikaMtihani"
 VERSION="5.500"
 TTF_VERSION="5.500"
