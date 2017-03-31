@@ -3,525 +3,525 @@
 <plist version="1.0">
 <dict>
   <key>.notdef</key>
-  <string>__notdef.glif</string>
+  <string>_notdef.glif</string>
   <key>.null</key>
-  <string>__null.glif</string>
+  <string>_null.glif</string>
   <key>AcuteAccent</key>
-  <string>AcuteAccent__.glif</string>
+  <string>A_cuteA_ccent.glif</string>
   <key>AlmostEqTo</key>
-  <string>AlmostEqTo___.glif</string>
+  <string>A_lmostE_qT_o.glif</string>
   <key>Ampersand</key>
-  <string>Ampersand_.glif</string>
+  <string>A_mpersand.glif</string>
   <key>Apos</key>
-  <string>Apos_.glif</string>
+  <string>A_pos.glif</string>
   <key>Asterisk</key>
-  <string>Asterisk_.glif</string>
+  <string>A_sterisk.glif</string>
   <key>AtSgn</key>
-  <string>AtSgn__.glif</string>
+  <string>A_tS_gn.glif</string>
   <key>Breve</key>
-  <string>Breve_.glif</string>
+  <string>B_reve.glif</string>
   <key>BrokenBar</key>
-  <string>BrokenBar__.glif</string>
+  <string>B_rokenB_ar.glif</string>
   <key>Bullet</key>
-  <string>Bullet_.glif</string>
+  <string>B_ullet.glif</string>
   <key>BulletOperator</key>
-  <string>BulletOperator__.glif</string>
+  <string>B_ulletO_perator.glif</string>
   <key>Caron</key>
-  <string>Caron_.glif</string>
+  <string>C_aron.glif</string>
   <key>Cedilla</key>
-  <string>Cedilla_.glif</string>
+  <string>C_edilla.glif</string>
   <key>CentSgn</key>
-  <string>CentSgn__.glif</string>
+  <string>C_entS_gn.glif</string>
   <key>CircumAccent</key>
-  <string>CircumAccent__.glif</string>
+  <string>C_ircumA_ccent.glif</string>
   <key>Colon</key>
-  <string>Colon_.glif</string>
+  <string>C_olon.glif</string>
   <key>CombAcute</key>
-  <string>CombAcute__.glif</string>
+  <string>C_ombA_cute.glif</string>
   <key>CombCaron</key>
-  <string>CombCaron__.glif</string>
+  <string>C_ombC_aron.glif</string>
   <key>CombCedilla</key>
-  <string>CombCedilla__.glif</string>
+  <string>C_ombC_edilla.glif</string>
   <key>CombCircum</key>
-  <string>CombCircum__.glif</string>
+  <string>C_ombC_ircum.glif</string>
   <key>CombDiaer</key>
-  <string>CombDiaer__.glif</string>
+  <string>C_ombD_iaer.glif</string>
   <key>CombGrave</key>
-  <string>CombGrave__.glif</string>
+  <string>C_ombG_rave.glif</string>
   <key>CombRingAbv</key>
-  <string>CombRingAbv___.glif</string>
+  <string>C_ombR_ingA_bv.glif</string>
   <key>CombTilde</key>
-  <string>CombTilde__.glif</string>
+  <string>C_ombT_ilde.glif</string>
   <key>Comma</key>
-  <string>Comma_.glif</string>
+  <string>C_omma.glif</string>
   <key>CopyrightSgn</key>
-  <string>CopyrightSgn__.glif</string>
+  <string>C_opyrightS_gn.glif</string>
   <key>CurrSgn</key>
-  <string>CurrSgn__.glif</string>
+  <string>C_urrS_gn.glif</string>
   <key>Dagger</key>
-  <string>Dagger_.glif</string>
+  <string>D_agger.glif</string>
   <key>DblAcuteAccent</key>
-  <string>DblAcuteAccent___.glif</string>
+  <string>D_blA_cuteA_ccent.glif</string>
   <key>DblDagger</key>
-  <string>DblDagger__.glif</string>
+  <string>D_blD_agger.glif</string>
   <key>DblLow9QuotMrk</key>
-  <string>DblLow9QuotMrk____.glif</string>
+  <string>D_blL_ow9Q_uotM_rk.glif</string>
   <key>DegreeSgn</key>
-  <string>DegreeSgn__.glif</string>
+  <string>D_egreeS_gn.glif</string>
   <key>Diaer</key>
-  <string>Diaer_.glif</string>
+  <string>D_iaer.glif</string>
   <key>DigitEight</key>
-  <string>DigitEight__.glif</string>
+  <string>D_igitE_ight.glif</string>
   <key>DigitFive</key>
-  <string>DigitFive__.glif</string>
+  <string>D_igitF_ive.glif</string>
   <key>DigitFour</key>
-  <string>DigitFour__.glif</string>
+  <string>D_igitF_our.glif</string>
   <key>DigitNine</key>
-  <string>DigitNine__.glif</string>
+  <string>D_igitN_ine.glif</string>
   <key>DigitOne</key>
-  <string>DigitOne__.glif</string>
+  <string>D_igitO_ne.glif</string>
   <key>DigitSeven</key>
-  <string>DigitSeven__.glif</string>
+  <string>D_igitS_even.glif</string>
   <key>DigitSix</key>
-  <string>DigitSix__.glif</string>
+  <string>D_igitS_ix.glif</string>
   <key>DigitThree</key>
-  <string>DigitThree__.glif</string>
+  <string>D_igitT_hree.glif</string>
   <key>DigitTwo</key>
-  <string>DigitTwo__.glif</string>
+  <string>D_igitT_wo.glif</string>
   <key>DigitZero</key>
-  <string>DigitZero__.glif</string>
+  <string>D_igitZ_ero.glif</string>
   <key>DivSgn</key>
-  <string>DivSgn__.glif</string>
+  <string>D_ivS_gn.glif</string>
   <key>DollarSgn</key>
-  <string>DollarSgn__.glif</string>
+  <string>D_ollarS_gn.glif</string>
   <key>DotAbv</key>
-  <string>DotAbv__.glif</string>
+  <string>D_otA_bv.glif</string>
   <key>DottedCirc</key>
-  <string>DottedCirc__.glif</string>
+  <string>D_ottedC_irc.glif</string>
   <key>EmDash</key>
-  <string>EmDash__.glif</string>
+  <string>E_mD_ash.glif</string>
   <key>EnDash</key>
-  <string>EnDash__.glif</string>
+  <string>E_nD_ash.glif</string>
   <key>EqSgn</key>
-  <string>EqSgn__.glif</string>
+  <string>E_qS_gn.glif</string>
   <key>EuroSgn</key>
-  <string>EuroSgn__.glif</string>
+  <string>E_uroS_gn.glif</string>
   <key>ExclamationMrk</key>
-  <string>ExclamationMrk__.glif</string>
+  <string>E_xclamationM_rk.glif</string>
   <key>FemOrdIndicator</key>
-  <string>FemOrdIndicator___.glif</string>
+  <string>F_emO_rdI_ndicator.glif</string>
   <key>FracSlash</key>
-  <string>FracSlash__.glif</string>
+  <string>F_racS_lash.glif</string>
   <key>FullStop</key>
-  <string>FullStop__.glif</string>
+  <string>F_ullS_top.glif</string>
   <key>GTOrEqTo</key>
-  <string>GTOrEqTo_____.glif</string>
+  <string>G_T_O_rE_qT_o.glif</string>
   <key>GTSgn</key>
-  <string>GTSgn___.glif</string>
+  <string>G_T_S_gn.glif</string>
   <key>GrCapOmega</key>
-  <string>GrCapOmega___.glif</string>
+  <string>G_rC_apO_mega.glif</string>
   <key>GrCapPi</key>
-  <string>GrCapPi___.glif</string>
+  <string>G_rC_apP_i.glif</string>
   <key>GrSmPi</key>
-  <string>GrSmPi___.glif</string>
+  <string>G_rS_mP_i.glif</string>
   <key>GraveAccent</key>
-  <string>GraveAccent__.glif</string>
+  <string>G_raveA_ccent.glif</string>
   <key>HorizBar</key>
-  <string>HorizBar__.glif</string>
+  <string>H_orizB_ar.glif</string>
   <key>HorizEllipsis</key>
-  <string>HorizEllipsis__.glif</string>
+  <string>H_orizE_llipsis.glif</string>
   <key>Hyphen</key>
-  <string>Hyphen_.glif</string>
+  <string>H_yphen.glif</string>
   <key>HyphenMinus</key>
-  <string>HyphenMinus__.glif</string>
+  <string>H_yphenM_inus.glif</string>
   <key>Hyphen_Soft</key>
-  <string>Hyphen__Soft_.glif</string>
+  <string>H_yphen_S_oft.glif</string>
   <key>Increment</key>
-  <string>Increment_.glif</string>
+  <string>I_ncrement.glif</string>
   <key>Infinity</key>
-  <string>Infinity_.glif</string>
+  <string>I_nfinity.glif</string>
   <key>Integral</key>
-  <string>Integral_.glif</string>
+  <string>I_ntegral.glif</string>
   <key>InvExclamationMrk</key>
-  <string>InvExclamationMrk___.glif</string>
+  <string>I_nvE_xclamationM_rk.glif</string>
   <key>InvQstnMrk</key>
-  <string>InvQstnMrk___.glif</string>
+  <string>I_nvQ_stnM_rk.glif</string>
   <key>LTOrEqTo</key>
-  <string>LTOrEqTo_____.glif</string>
+  <string>L_T_O_rE_qT_o.glif</string>
   <key>LTSgn</key>
-  <string>LTSgn___.glif</string>
+  <string>L_T_S_gn.glif</string>
   <key>LftCurlyBrac</key>
-  <string>LftCurlyBrac___.glif</string>
+  <string>L_ftC_urlyB_rac.glif</string>
   <key>LftDblQuotMrk</key>
-  <string>LftDblQuotMrk____.glif</string>
+  <string>L_ftD_blQ_uotM_rk.glif</string>
   <key>LftParen</key>
-  <string>LftParen__.glif</string>
+  <string>L_ftP_aren.glif</string>
   <key>LftPtngDblAngQuotMrk</key>
-  <string>LftPtngDblAngQuotMrk______.glif</string>
+  <string>L_ftP_tngD_blA_ngQ_uotM_rk.glif</string>
   <key>LftSglQuotMrk</key>
-  <string>LftSglQuotMrk____.glif</string>
+  <string>L_ftS_glQ_uotM_rk.glif</string>
   <key>LftSqrBrac</key>
-  <string>LftSqrBrac___.glif</string>
+  <string>L_ftS_qrB_rac.glif</string>
   <key>LowLine</key>
-  <string>LowLine__.glif</string>
+  <string>L_owL_ine.glif</string>
   <key>Lozenge</key>
-  <string>Lozenge_.glif</string>
+  <string>L_ozenge.glif</string>
   <key>LtnCapA</key>
-  <string>LtnCapA___.glif</string>
+  <string>L_tnC_apA_.glif</string>
   <key>LtnCapAAcute</key>
-  <string>LtnCapAAcute____.glif</string>
+  <string>L_tnC_apA_A_cute.glif</string>
   <key>LtnCapACircum</key>
-  <string>LtnCapACircum____.glif</string>
+  <string>L_tnC_apA_C_ircum.glif</string>
   <key>LtnCapADiaer</key>
-  <string>LtnCapADiaer____.glif</string>
+  <string>L_tnC_apA_D_iaer.glif</string>
   <key>LtnCapAGrave</key>
-  <string>LtnCapAGrave____.glif</string>
+  <string>L_tnC_apA_G_rave.glif</string>
   <key>LtnCapARingAbv</key>
-  <string>LtnCapARingAbv_____.glif</string>
+  <string>L_tnC_apA_R_ingA_bv.glif</string>
   <key>LtnCapATilde</key>
-  <string>LtnCapATilde____.glif</string>
+  <string>L_tnC_apA_T_ilde.glif</string>
   <key>LtnCapAe</key>
-  <string>LtnCapAe___.glif</string>
+  <string>L_tnC_apA_e.glif</string>
   <key>LtnCapB</key>
-  <string>LtnCapB___.glif</string>
+  <string>L_tnC_apB_.glif</string>
   <key>LtnCapC</key>
-  <string>LtnCapC___.glif</string>
+  <string>L_tnC_apC_.glif</string>
   <key>LtnCapCCedilla</key>
-  <string>LtnCapCCedilla____.glif</string>
+  <string>L_tnC_apC_C_edilla.glif</string>
   <key>LtnCapD</key>
-  <string>LtnCapD___.glif</string>
+  <string>L_tnC_apD_.glif</string>
   <key>LtnCapE</key>
-  <string>LtnCapE___.glif</string>
+  <string>L_tnC_apE_.glif</string>
   <key>LtnCapEAcute</key>
-  <string>LtnCapEAcute____.glif</string>
+  <string>L_tnC_apE_A_cute.glif</string>
   <key>LtnCapECircum</key>
-  <string>LtnCapECircum____.glif</string>
+  <string>L_tnC_apE_C_ircum.glif</string>
   <key>LtnCapEDiaer</key>
-  <string>LtnCapEDiaer____.glif</string>
+  <string>L_tnC_apE_D_iaer.glif</string>
   <key>LtnCapEGrave</key>
-  <string>LtnCapEGrave____.glif</string>
+  <string>L_tnC_apE_G_rave.glif</string>
   <key>LtnCapEsh</key>
-  <string>LtnCapEsh___.glif</string>
+  <string>L_tnC_apE_sh.glif</string>
   <key>LtnCapEth</key>
-  <string>LtnCapEth___.glif</string>
+  <string>L_tnC_apE_th.glif</string>
   <key>LtnCapF</key>
-  <string>LtnCapF___.glif</string>
+  <string>L_tnC_apF_.glif</string>
   <key>LtnCapG</key>
-  <string>LtnCapG___.glif</string>
+  <string>L_tnC_apG_.glif</string>
   <key>LtnCapH</key>
-  <string>LtnCapH___.glif</string>
+  <string>L_tnC_apH_.glif</string>
   <key>LtnCapI</key>
-  <string>LtnCapI___.glif</string>
+  <string>L_tnC_apI_.glif</string>
   <key>LtnCapIAcute</key>
-  <string>LtnCapIAcute____.glif</string>
+  <string>L_tnC_apI_A_cute.glif</string>
   <key>LtnCapICircum</key>
-  <string>LtnCapICircum____.glif</string>
+  <string>L_tnC_apI_C_ircum.glif</string>
   <key>LtnCapIDiaer</key>
-  <string>LtnCapIDiaer____.glif</string>
+  <string>L_tnC_apI_D_iaer.glif</string>
   <key>LtnCapIGrave</key>
-  <string>LtnCapIGrave____.glif</string>
+  <string>L_tnC_apI_G_rave.glif</string>
   <key>LtnCapJ</key>
-  <string>LtnCapJ___.glif</string>
+  <string>L_tnC_apJ_.glif</string>
   <key>LtnCapK</key>
-  <string>LtnCapK___.glif</string>
+  <string>L_tnC_apK_.glif</string>
   <key>LtnCapL</key>
-  <string>LtnCapL___.glif</string>
+  <string>L_tnC_apL_.glif</string>
   <key>LtnCapLigOe</key>
-  <string>LtnCapLigOe____.glif</string>
+  <string>L_tnC_apL_igO_e.glif</string>
   <key>LtnCapM</key>
-  <string>LtnCapM___.glif</string>
+  <string>L_tnC_apM_.glif</string>
   <key>LtnCapN</key>
-  <string>LtnCapN___.glif</string>
+  <string>L_tnC_apN_.glif</string>
   <key>LtnCapNTilde</key>
-  <string>LtnCapNTilde____.glif</string>
+  <string>L_tnC_apN_T_ilde.glif</string>
   <key>LtnCapO</key>
-  <string>LtnCapO___.glif</string>
+  <string>L_tnC_apO_.glif</string>
   <key>LtnCapOAcute</key>
-  <string>LtnCapOAcute____.glif</string>
+  <string>L_tnC_apO_A_cute.glif</string>
   <key>LtnCapOCircum</key>
-  <string>LtnCapOCircum____.glif</string>
+  <string>L_tnC_apO_C_ircum.glif</string>
   <key>LtnCapODiaer</key>
-  <string>LtnCapODiaer____.glif</string>
+  <string>L_tnC_apO_D_iaer.glif</string>
   <key>LtnCapOGrave</key>
-  <string>LtnCapOGrave____.glif</string>
+  <string>L_tnC_apO_G_rave.glif</string>
   <key>LtnCapOStrk</key>
-  <string>LtnCapOStrk____.glif</string>
+  <string>L_tnC_apO_S_trk.glif</string>
   <key>LtnCapOTilde</key>
-  <string>LtnCapOTilde____.glif</string>
+  <string>L_tnC_apO_T_ilde.glif</string>
   <key>LtnCapP</key>
-  <string>LtnCapP___.glif</string>
+  <string>L_tnC_apP_.glif</string>
   <key>LtnCapQ</key>
-  <string>LtnCapQ___.glif</string>
+  <string>L_tnC_apQ_.glif</string>
   <key>LtnCapR</key>
-  <string>LtnCapR___.glif</string>
+  <string>L_tnC_apR_.glif</string>
   <key>LtnCapS</key>
-  <string>LtnCapS___.glif</string>
+  <string>L_tnC_apS_.glif</string>
   <key>LtnCapSCaron</key>
-  <string>LtnCapSCaron____.glif</string>
+  <string>L_tnC_apS_C_aron.glif</string>
   <key>LtnCapT</key>
-  <string>LtnCapT___.glif</string>
+  <string>L_tnC_apT_.glif</string>
   <key>LtnCapThorn</key>
-  <string>LtnCapThorn___.glif</string>
+  <string>L_tnC_apT_horn.glif</string>
   <key>LtnCapU</key>
-  <string>LtnCapU___.glif</string>
+  <string>L_tnC_apU_.glif</string>
   <key>LtnCapUAcute</key>
-  <string>LtnCapUAcute____.glif</string>
+  <string>L_tnC_apU_A_cute.glif</string>
   <key>LtnCapUCircum</key>
-  <string>LtnCapUCircum____.glif</string>
+  <string>L_tnC_apU_C_ircum.glif</string>
   <key>LtnCapUDiaer</key>
-  <string>LtnCapUDiaer____.glif</string>
+  <string>L_tnC_apU_D_iaer.glif</string>
   <key>LtnCapUGrave</key>
-  <string>LtnCapUGrave____.glif</string>
+  <string>L_tnC_apU_G_rave.glif</string>
   <key>LtnCapV</key>
-  <string>LtnCapV___.glif</string>
+  <string>L_tnC_apV_.glif</string>
   <key>LtnCapW</key>
-  <string>LtnCapW___.glif</string>
+  <string>L_tnC_apW_.glif</string>
   <key>LtnCapX</key>
-  <string>LtnCapX___.glif</string>
+  <string>L_tnC_apX_.glif</string>
   <key>LtnCapY</key>
-  <string>LtnCapY___.glif</string>
+  <string>L_tnC_apY_.glif</string>
   <key>LtnCapYAcute</key>
-  <string>LtnCapYAcute____.glif</string>
+  <string>L_tnC_apY_A_cute.glif</string>
   <key>LtnCapYDiaer</key>
-  <string>LtnCapYDiaer____.glif</string>
+  <string>L_tnC_apY_D_iaer.glif</string>
   <key>LtnCapZ</key>
-  <string>LtnCapZ___.glif</string>
+  <string>L_tnC_apZ_.glif</string>
   <key>LtnCapZCaron</key>
-  <string>LtnCapZCaron____.glif</string>
+  <string>L_tnC_apZ_C_aron.glif</string>
   <key>LtnSmA</key>
-  <string>LtnSmA___.glif</string>
+  <string>L_tnS_mA_.glif</string>
   <key>LtnSmAAcute</key>
-  <string>LtnSmAAcute____.glif</string>
+  <string>L_tnS_mA_A_cute.glif</string>
   <key>LtnSmACircum</key>
-  <string>LtnSmACircum____.glif</string>
+  <string>L_tnS_mA_C_ircum.glif</string>
   <key>LtnSmADiaer</key>
-  <string>LtnSmADiaer____.glif</string>
+  <string>L_tnS_mA_D_iaer.glif</string>
   <key>LtnSmAGrave</key>
-  <string>LtnSmAGrave____.glif</string>
+  <string>L_tnS_mA_G_rave.glif</string>
   <key>LtnSmARingAbv</key>
-  <string>LtnSmARingAbv_____.glif</string>
+  <string>L_tnS_mA_R_ingA_bv.glif</string>
   <key>LtnSmATilde</key>
-  <string>LtnSmATilde____.glif</string>
+  <string>L_tnS_mA_T_ilde.glif</string>
   <key>LtnSmAe</key>
-  <string>LtnSmAe___.glif</string>
+  <string>L_tnS_mA_e.glif</string>
   <key>LtnSmB</key>
-  <string>LtnSmB___.glif</string>
+  <string>L_tnS_mB_.glif</string>
   <key>LtnSmC</key>
-  <string>LtnSmC___.glif</string>
+  <string>L_tnS_mC_.glif</string>
   <key>LtnSmCCedilla</key>
-  <string>LtnSmCCedilla____.glif</string>
+  <string>L_tnS_mC_C_edilla.glif</string>
   <key>LtnSmD</key>
-  <string>LtnSmD___.glif</string>
+  <string>L_tnS_mD_.glif</string>
   <key>LtnSmDotlessI</key>
-  <string>LtnSmDotlessI____.glif</string>
+  <string>L_tnS_mD_otlessI_.glif</string>
   <key>LtnSmE</key>
-  <string>LtnSmE___.glif</string>
+  <string>L_tnS_mE_.glif</string>
   <key>LtnSmEAcute</key>
-  <string>LtnSmEAcute____.glif</string>
+  <string>L_tnS_mE_A_cute.glif</string>
   <key>LtnSmECircum</key>
-  <string>LtnSmECircum____.glif</string>
+  <string>L_tnS_mE_C_ircum.glif</string>
   <key>LtnSmEDiaer</key>
-  <string>LtnSmEDiaer____.glif</string>
+  <string>L_tnS_mE_D_iaer.glif</string>
   <key>LtnSmEGrave</key>
-  <string>LtnSmEGrave____.glif</string>
+  <string>L_tnS_mE_G_rave.glif</string>
   <key>LtnSmEth</key>
-  <string>LtnSmEth___.glif</string>
+  <string>L_tnS_mE_th.glif</string>
   <key>LtnSmF</key>
-  <string>LtnSmF___.glif</string>
+  <string>L_tnS_mF_.glif</string>
   <key>LtnSmFHook</key>
-  <string>LtnSmFHook____.glif</string>
+  <string>L_tnS_mF_H_ook.glif</string>
   <key>LtnSmG</key>
-  <string>LtnSmG___.glif</string>
+  <string>L_tnS_mG_.glif</string>
   <key>LtnSmH</key>
-  <string>LtnSmH___.glif</string>
+  <string>L_tnS_mH_.glif</string>
   <key>LtnSmI</key>
-  <string>LtnSmI___.glif</string>
+  <string>L_tnS_mI_.glif</string>
   <key>LtnSmIAcute</key>
-  <string>LtnSmIAcute____.glif</string>
+  <string>L_tnS_mI_A_cute.glif</string>
   <key>LtnSmICircum</key>
-  <string>LtnSmICircum____.glif</string>
+  <string>L_tnS_mI_C_ircum.glif</string>
   <key>LtnSmIDiaer</key>
-  <string>LtnSmIDiaer____.glif</string>
+  <string>L_tnS_mI_D_iaer.glif</string>
   <key>LtnSmIGrave</key>
-  <string>LtnSmIGrave____.glif</string>
+  <string>L_tnS_mI_G_rave.glif</string>
   <key>LtnSmJ</key>
-  <string>LtnSmJ___.glif</string>
+  <string>L_tnS_mJ_.glif</string>
   <key>LtnSmK</key>
-  <string>LtnSmK___.glif</string>
+  <string>L_tnS_mK_.glif</string>
   <key>LtnSmL</key>
-  <string>LtnSmL___.glif</string>
+  <string>L_tnS_mL_.glif</string>
   <key>LtnSmLigFi</key>
-  <string>LtnSmLigFi____.glif</string>
+  <string>L_tnS_mL_igF_i.glif</string>
   <key>LtnSmLigFl</key>
-  <string>LtnSmLigFl____.glif</string>
+  <string>L_tnS_mL_igF_l.glif</string>
   <key>LtnSmLigOe</key>
-  <string>LtnSmLigOe____.glif</string>
+  <string>L_tnS_mL_igO_e.glif</string>
   <key>LtnSmM</key>
-  <string>LtnSmM___.glif</string>
+  <string>L_tnS_mM_.glif</string>
   <key>LtnSmN</key>
-  <string>LtnSmN___.glif</string>
+  <string>L_tnS_mN_.glif</string>
   <key>LtnSmNTilde</key>
-  <string>LtnSmNTilde____.glif</string>
+  <string>L_tnS_mN_T_ilde.glif</string>
   <key>LtnSmO</key>
-  <string>LtnSmO___.glif</string>
+  <string>L_tnS_mO_.glif</string>
   <key>LtnSmOAcute</key>
-  <string>LtnSmOAcute____.glif</string>
+  <string>L_tnS_mO_A_cute.glif</string>
   <key>LtnSmOCircum</key>
-  <string>LtnSmOCircum____.glif</string>
+  <string>L_tnS_mO_C_ircum.glif</string>
   <key>LtnSmODiaer</key>
-  <string>LtnSmODiaer____.glif</string>
+  <string>L_tnS_mO_D_iaer.glif</string>
   <key>LtnSmOGrave</key>
-  <string>LtnSmOGrave____.glif</string>
+  <string>L_tnS_mO_G_rave.glif</string>
   <key>LtnSmOStrk</key>
-  <string>LtnSmOStrk____.glif</string>
+  <string>L_tnS_mO_S_trk.glif</string>
   <key>LtnSmOTilde</key>
-  <string>LtnSmOTilde____.glif</string>
+  <string>L_tnS_mO_T_ilde.glif</string>
   <key>LtnSmP</key>
-  <string>LtnSmP___.glif</string>
+  <string>L_tnS_mP_.glif</string>
   <key>LtnSmQ</key>
-  <string>LtnSmQ___.glif</string>
+  <string>L_tnS_mQ_.glif</string>
   <key>LtnSmR</key>
-  <string>LtnSmR___.glif</string>
+  <string>L_tnS_mR_.glif</string>
   <key>LtnSmS</key>
-  <string>LtnSmS___.glif</string>
+  <string>L_tnS_mS_.glif</string>
   <key>LtnSmSCaron</key>
-  <string>LtnSmSCaron____.glif</string>
+  <string>L_tnS_mS_C_aron.glif</string>
   <key>LtnSmSharpS</key>
-  <string>LtnSmSharpS____.glif</string>
+  <string>L_tnS_mS_harpS_.glif</string>
   <key>LtnSmT</key>
-  <string>LtnSmT___.glif</string>
+  <string>L_tnS_mT_.glif</string>
   <key>LtnSmThorn</key>
-  <string>LtnSmThorn___.glif</string>
+  <string>L_tnS_mT_horn.glif</string>
   <key>LtnSmU</key>
-  <string>LtnSmU___.glif</string>
+  <string>L_tnS_mU_.glif</string>
   <key>LtnSmUAcute</key>
-  <string>LtnSmUAcute____.glif</string>
+  <string>L_tnS_mU_A_cute.glif</string>
   <key>LtnSmUCircum</key>
-  <string>LtnSmUCircum____.glif</string>
+  <string>L_tnS_mU_C_ircum.glif</string>
   <key>LtnSmUDiaer</key>
-  <string>LtnSmUDiaer____.glif</string>
+  <string>L_tnS_mU_D_iaer.glif</string>
   <key>LtnSmUGrave</key>
-  <string>LtnSmUGrave____.glif</string>
+  <string>L_tnS_mU_G_rave.glif</string>
   <key>LtnSmV</key>
-  <string>LtnSmV___.glif</string>
+  <string>L_tnS_mV_.glif</string>
   <key>LtnSmW</key>
-  <string>LtnSmW___.glif</string>
+  <string>L_tnS_mW_.glif</string>
   <key>LtnSmX</key>
-  <string>LtnSmX___.glif</string>
+  <string>L_tnS_mX_.glif</string>
   <key>LtnSmY</key>
-  <string>LtnSmY___.glif</string>
+  <string>L_tnS_mY_.glif</string>
   <key>LtnSmYAcute</key>
-  <string>LtnSmYAcute____.glif</string>
+  <string>L_tnS_mY_A_cute.glif</string>
   <key>LtnSmYDiaer</key>
-  <string>LtnSmYDiaer____.glif</string>
+  <string>L_tnS_mY_D_iaer.glif</string>
   <key>LtnSmZ</key>
-  <string>LtnSmZ___.glif</string>
+  <string>L_tnS_mZ_.glif</string>
   <key>LtnSmZCaron</key>
-  <string>LtnSmZCaron____.glif</string>
+  <string>L_tnS_mZ_C_aron.glif</string>
   <key>Macron</key>
-  <string>Macron_.glif</string>
+  <string>M_acron.glif</string>
   <key>MascOrdIndicator</key>
-  <string>MascOrdIndicator___.glif</string>
+  <string>M_ascO_rdI_ndicator.glif</string>
   <key>MicroSgn</key>
-  <string>MicroSgn__.glif</string>
+  <string>M_icroS_gn.glif</string>
   <key>MiddleDot</key>
-  <string>MiddleDot__.glif</string>
+  <string>M_iddleD_ot.glif</string>
   <key>ModCircumAccent</key>
-  <string>ModCircumAccent___.glif</string>
+  <string>M_odC_ircumA_ccent.glif</string>
   <key>MultSgn</key>
-  <string>MultSgn__.glif</string>
+  <string>M_ultS_gn.glif</string>
   <key>NAryProduct</key>
-  <string>NAryProduct___.glif</string>
+  <string>N_A_ryP_roduct.glif</string>
   <key>NArySummation</key>
-  <string>NArySummation___.glif</string>
+  <string>N_A_ryS_ummation.glif</string>
   <key>NoBreakSpace</key>
-  <string>NoBreakSpace___.glif</string>
+  <string>N_oB_reakS_pace.glif</string>
   <key>NonBreakingHyphen</key>
-  <string>NonBreakingHyphen___.glif</string>
+  <string>N_onB_reakingH_yphen.glif</string>
   <key>NotEqTo</key>
-  <string>NotEqTo___.glif</string>
+  <string>N_otE_qT_o.glif</string>
   <key>NotSgn</key>
-  <string>NotSgn__.glif</string>
+  <string>N_otS_gn.glif</string>
   <key>NumSgn</key>
-  <string>NumSgn__.glif</string>
+  <string>N_umS_gn.glif</string>
   <key>Ogonek</key>
-  <string>Ogonek_.glif</string>
+  <string>O_gonek.glif</string>
   <key>OhmSgn</key>
-  <string>OhmSgn__.glif</string>
+  <string>O_hmS_gn.glif</string>
   <key>PartialDiff</key>
-  <string>PartialDiff__.glif</string>
+  <string>P_artialD_iff.glif</string>
   <key>PerMilleSgn</key>
-  <string>PerMilleSgn___.glif</string>
+  <string>P_erM_illeS_gn.glif</string>
   <key>PercentSgn</key>
-  <string>PercentSgn__.glif</string>
+  <string>P_ercentS_gn.glif</string>
   <key>PilcrowSgn</key>
-  <string>PilcrowSgn__.glif</string>
+  <string>P_ilcrowS_gn.glif</string>
   <key>PlusMinusSgn</key>
-  <string>PlusMinusSgn___.glif</string>
+  <string>P_lusM_inusS_gn.glif</string>
   <key>PlusSgn</key>
-  <string>PlusSgn__.glif</string>
+  <string>P_lusS_gn.glif</string>
   <key>PoundSgn</key>
-  <string>PoundSgn__.glif</string>
+  <string>P_oundS_gn.glif</string>
   <key>QstnMrk</key>
-  <string>QstnMrk__.glif</string>
+  <string>Q_stnM_rk.glif</string>
   <key>QuotMrk</key>
-  <string>QuotMrk__.glif</string>
+  <string>Q_uotM_rk.glif</string>
   <key>RegisteredSgn</key>
-  <string>RegisteredSgn__.glif</string>
+  <string>R_egisteredS_gn.glif</string>
   <key>ReverseSolidus</key>
-  <string>ReverseSolidus__.glif</string>
+  <string>R_everseS_olidus.glif</string>
   <key>RingAbv</key>
-  <string>RingAbv__.glif</string>
+  <string>R_ingA_bv.glif</string>
   <key>RtCurlyBrac</key>
-  <string>RtCurlyBrac___.glif</string>
+  <string>R_tC_urlyB_rac.glif</string>
   <key>RtDblQuotMrk</key>
-  <string>RtDblQuotMrk____.glif</string>
+  <string>R_tD_blQ_uotM_rk.glif</string>
   <key>RtParen</key>
-  <string>RtParen__.glif</string>
+  <string>R_tP_aren.glif</string>
   <key>RtPtngDblAngQuotMrk</key>
-  <string>RtPtngDblAngQuotMrk______.glif</string>
+  <string>R_tP_tngD_blA_ngQ_uotM_rk.glif</string>
   <key>RtSglQuotMrk</key>
-  <string>RtSglQuotMrk____.glif</string>
+  <string>R_tS_glQ_uotM_rk.glif</string>
   <key>RtSqrBrac</key>
-  <string>RtSqrBrac___.glif</string>
+  <string>R_tS_qrB_rac.glif</string>
   <key>SectionSgn</key>
-  <string>SectionSgn__.glif</string>
+  <string>S_ectionS_gn.glif</string>
   <key>Semicolon</key>
-  <string>Semicolon_.glif</string>
+  <string>S_emicolon.glif</string>
   <key>SglLftPtngAngQuotMrk</key>
-  <string>SglLftPtngAngQuotMrk______.glif</string>
+  <string>S_glL_ftP_tngA_ngQ_uotM_rk.glif</string>
   <key>SglLow9QuotMrk</key>
-  <string>SglLow9QuotMrk____.glif</string>
+  <string>S_glL_ow9Q_uotM_rk.glif</string>
   <key>SglRtPtngAngQuotMrk</key>
-  <string>SglRtPtngAngQuotMrk______.glif</string>
+  <string>S_glR_tP_tngA_ngQ_uotM_rk.glif</string>
   <key>SmTilde</key>
-  <string>SmTilde__.glif</string>
+  <string>S_mT_ilde.glif</string>
   <key>Solidus</key>
-  <string>Solidus_.glif</string>
+  <string>S_olidus.glif</string>
   <key>Space</key>
-  <string>Space_.glif</string>
+  <string>S_pace.glif</string>
   <key>SqrRoot</key>
-  <string>SqrRoot__.glif</string>
+  <string>S_qrR_oot.glif</string>
   <key>SupOne</key>
-  <string>SupOne__.glif</string>
+  <string>S_upO_ne.glif</string>
   <key>SupThree</key>
-  <string>SupThree__.glif</string>
+  <string>S_upT_hree.glif</string>
   <key>SupTwo</key>
-  <string>SupTwo__.glif</string>
+  <string>S_upT_wo.glif</string>
   <key>Tilde</key>
-  <string>Tilde_.glif</string>
+  <string>T_ilde.glif</string>
   <key>TradeMrkSgn</key>
-  <string>TradeMrkSgn___.glif</string>
+  <string>T_radeM_rkS_gn.glif</string>
   <key>VertLine</key>
-  <string>VertLine__.glif</string>
+  <string>V_ertL_ine.glif</string>
   <key>VulgFracOneHalf</key>
-  <string>VulgFracOneHalf____.glif</string>
+  <string>V_ulgF_racO_neH_alf.glif</string>
   <key>VulgFracOneQuarter</key>
-  <string>VulgFracOneQuarter____.glif</string>
+  <string>V_ulgF_racO_neQ_uarter.glif</string>
   <key>VulgFracThreeQuarters</key>
-  <string>VulgFracThreeQuarters____.glif</string>
+  <string>V_ulgF_racT_hreeQ_uarters.glif</string>
   <key>YenSgn</key>
-  <string>YenSgn__.glif</string>
+  <string>Y_enS_gn.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
 </dict>
