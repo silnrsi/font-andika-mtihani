@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1485</integer>
   <key>copyright</key>
-  <string>Copyright (c) SIL International, 2004-2015.</string>
+  <string>Copyright (c) SIL International, 2004-2017.</string>
   <key>descender</key>
   <integer>-550</integer>
   <key>familyName</key>
@@ -29,9 +29,9 @@
   <key>openTypeNameDescription</key>
   <string/>
   <key>openTypeNameDesigner</key>
-  <string>Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner</string>
+  <string>Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner, Pablo Ugerman</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2004-2015, SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
+  <string>Copyright (c) 2004-2017, SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
 
@@ -87,7 +87,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameSampleText</key>
   <string/>
   <key>openTypeNameUniqueID</key>
-  <string>SILInternational: Andika Mtihani Bold Italic: 2015</string>
+  <string>SIL International: Andika Mtihani Bold Italic: 2017</string>
   <key>openTypeNameVersion</key>
   <string>Version 5.500</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -152,18 +152,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <array>
     <integer>0</integer>
     <integer>1</integer>
-    <integer>2</integer>
-    <integer>3</integer>
-    <integer>4</integer>
-    <integer>5</integer>
     <integer>6</integer>
     <integer>7</integer>
-    <integer>9</integer>
-    <integer>29</integer>
     <integer>31</integer>
-    <integer>32</integer>
     <integer>33</integer>
-    <integer>34</integer>
     <integer>35</integer>
     <integer>36</integer>
     <integer>37</integer>
@@ -263,10 +255,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>5</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>500</integer>
   <key>xHeight</key>
   <integer>1040</integer>
   <key>year</key>
-  <integer>2015</integer>
+  <integer>2017</integer>
 </dict>
 </plist>
