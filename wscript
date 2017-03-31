@@ -26,9 +26,9 @@ may change significantly without notice. It will always be experimental and
 may not work as you expect!
 """
 DESC_NAME = "AndikaMtihani"
-DEBPKG = 'fonts-sil-andika-mtihani'
+DEBPKG = 'fonts-sil-andikamtihani'
 
-for style in ('-R','-B','-I','-BI') :
+for style in ('-Regular','-Bold','-Italic','-BoldItalic') :
     font(target = FILENAMEBASE + style + '.ttf',
         source = 'source/' + FILENAMEBASE + style + '.ufo',
         version = VERSION,
