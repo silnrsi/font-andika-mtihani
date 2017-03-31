@@ -12,8 +12,6 @@
   <integer>-550</integer>
   <key>familyName</key>
   <string>Andika Mtihani</string>
-  <key>italicAngle</key>
-  <integer>0</integer>
   <key>macintoshFONDFamilyID</key>
   <integer>4180</integer>
   <key>macintoshFONDName</key>
@@ -32,8 +30,6 @@
   <string/>
   <key>openTypeNameDesigner</key>
   <string>Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner</string>
-  <key>openTypeNameDesignerURL</key>
-  <string/>
   <key>openTypeNameLicense</key>
   <string>Copyright (c) 2004-2015, SIL International (http://www.sil.org/) with Reserved Font Names "Andika" and "SIL".
 
@@ -84,6 +80,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>SIL International</string>
   <key>openTypeNameManufacturerURL</key>
   <string>http://scripts.sil.org</string>
+  <key>openTypeNamePreferredFamilyName</key>
+  <string>Andika Mtihani</string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Bold Italic</string>
   <key>openTypeNameSampleText</key>
   <string/>
   <key>openTypeNameUniqueID</key>
@@ -194,11 +194,13 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
-  <real>0.039625</real>
+  <real>0.0396</real>
   <key>postscriptBlueShift</key>
   <integer>7</integer>
   <key>postscriptBlueValues</key>
   <array>
+    <integer>-490</integer>
+    <integer>-490</integer>
     <integer>-25</integer>
     <integer>0</integer>
     <integer>1020</integer>
@@ -217,10 +219,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
-  <array>
-    <integer>-490</integer>
-    <integer>-490</integer>
-  </array>
+  <array/>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>140</integer>
@@ -251,8 +250,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>80</integer>
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
-  <key>postscriptWeightName</key>
-  <string>Bold</string>
   <key>styleMapFamilyName</key>
   <string>Andika Mtihani</string>
   <key>styleMapStyleName</key>
