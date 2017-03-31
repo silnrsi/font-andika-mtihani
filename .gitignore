@@ -6,11 +6,15 @@
 .waf-*
 .lock-*
 results/**
+buildlinux2/**
 bin/**
 
 # general backup files
 *~
 *.swp
+*.autosave
+*(Autosaved)*
+
 
 # OS X
 *.DS_STORE
@@ -20,9 +24,23 @@ bin/**
 .Trashes
 .fseventsd
 .VolumeIcon.icns
+.AppleDouble
+.LSOverride
+Icon?
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
 
 # Windows
 Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+Thumbs.db
+ehthumbs.db
+*.lnk
+
 
 # AFDKO
 current.fpr
@@ -30,6 +48,17 @@ current.fpr
 # Editors
 *.bak
 *.vfbak
+*.~tt
+
+# Shares
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+$RECYCLE.BIN/
+.Spotlight-V100
+.Trashes
 
 # Fontforge temporary backups
 *.sfd-*
@@ -37,12 +66,35 @@ current.fpr
 # Opaque formats to keep out of git
 *.vfb
 *.fog
+*.vfc
 
 # generated releases
 *.zip
 *.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tgz
+*.tgx
 
 # installers
 *.exe
 *.deb
 *.pkg
+*.cab
+*.msi
+*.msm
+*.msp
+
+# VM helpers
+.vagrant/
+.docker/
+*.log
+
+# Other
+.sass-cache/
+.jekyll-metadata
+
+# Byte-compiled / optimized files
+*.py[co]
+*$py.class
+__pycache__/
