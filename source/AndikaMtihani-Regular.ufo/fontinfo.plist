@@ -87,7 +87,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameSampleText</key>
   <string/>
   <key>openTypeNameUniqueID</key>
-  <string>SILInternational: Andika Mtihani: 2017</string>
+  <string>SIL International: Andika Mtihani Regular: 2017</string>
   <key>openTypeNameVersion</key>
   <string>Version 5.500</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -203,11 +203,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>1620</integer>
   </array>
   <key>postscriptFontName</key>
-  <string>AndikaMtihani</string>
+  <string>AndikaMtihani-Regular</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Andika Mtihani</string>
+  <string>Andika Mtihani Regular</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptOtherBlues</key>
