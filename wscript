@@ -30,6 +30,7 @@ DEBPKG = 'fonts-sil-andikamtihani'
 
 for style in ('-Regular','-Bold','-Italic','-BoldItalic') :
     font(target = FILENAMEBASE + style + '.ttf',
+        buildusingfontforge = 1,
         source = 'source/' + FILENAMEBASE + style + '.ufo',
         version = VERSION,
         license = ofl('Andika'),
