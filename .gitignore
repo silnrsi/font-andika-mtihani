@@ -49,6 +49,7 @@ current.fpr
 *.bak
 *.vfbak
 *.~tt
+.idea/
 
 # Shares
 .AppleDB
@@ -64,7 +65,6 @@ $RECYCLE.BIN/
 *.sfd-*
 
 # Opaque formats to keep out of git
-*.vfb
 *.fog
 *.vfc
 
@@ -98,3 +98,4 @@ $RECYCLE.BIN/
 *.py[co]
 *$py.class
 __pycache__/
+
