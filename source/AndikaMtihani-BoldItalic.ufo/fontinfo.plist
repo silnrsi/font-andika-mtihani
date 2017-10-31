@@ -12,6 +12,8 @@
   <integer>-550</integer>
   <key>familyName</key>
   <string>Andika Mtihani</string>
+  <key>italicAngle</key>
+  <integer>-14</integer>
   <key>openTypeHeadCreated</key>
   <string>2017/10/25 17:00:00</string>
   <key>openTypeHheaAscender</key>
