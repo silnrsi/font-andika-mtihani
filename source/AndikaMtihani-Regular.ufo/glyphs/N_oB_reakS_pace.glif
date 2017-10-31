@@ -3,4 +3,10 @@
   <advance width="550"/>
   <unicode hex="00A0"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <true/>
+    </dict>
+  </lib>
 </glyph>
