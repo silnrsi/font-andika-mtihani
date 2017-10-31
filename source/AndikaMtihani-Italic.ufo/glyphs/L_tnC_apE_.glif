@@ -32,4 +32,10 @@
       <point x="1081" y="828" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <true/>
+    </dict>
+  </lib>
 </glyph>

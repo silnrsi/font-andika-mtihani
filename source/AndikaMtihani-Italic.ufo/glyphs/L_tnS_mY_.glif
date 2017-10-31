@@ -42,4 +42,10 @@
       <point x="347" y="1000" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <true/>
+    </dict>
+  </lib>
 </glyph>

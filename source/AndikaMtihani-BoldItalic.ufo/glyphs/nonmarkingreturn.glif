@@ -2,4 +2,10 @@
 <glyph name="nonmarkingreturn" format="2">
   <advance width="1004"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <true/>
+    </dict>
+  </lib>
 </glyph>

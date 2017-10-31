@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="CombTilde" format="2">
-  <advance width="0"/>
   <unicode hex="0303"/>
   <anchor x="-355" y="1490" name="U"/>
   <anchor x="-390" y="1100" name="_U"/>
@@ -36,21 +35,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.guides</key>
-      <array>
-        <dict>
-          <key>angle</key>
-          <integer>76</integer>
-          <key>isGlobal</key>
-          <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>x</key>
-          <integer>-638</integer>
-          <key>y</key>
-          <integer>0</integer>
-        </dict>
-      </array>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <true/>
     </dict>
   </lib>
 </glyph>
