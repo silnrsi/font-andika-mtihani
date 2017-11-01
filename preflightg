@@ -1,11 +1,14 @@
 #!/bin/sh
 
+# Note that this glyphsLib-based export process will produce UFOs that are incorrect,
+# so do not blindly check in any changes after running it without first very carefully
+# reviewing all changes
+
 # Produce individual UFOs from Glyphs files
 psfglyphs2ufo source/AndikaMtihani-RB.glyphs source
 psfglyphs2ufo source/AndikaMtihani-IBI.glyphs source
 
 # Above commands will name the Italic RegularItalic, so fix
-
 rm -R source/AndikaMtihani-Italic.ufo
 mv source/AndikaMtihani-RegularItalic.ufo source/AndikaMtihani-Italic.ufo
 
