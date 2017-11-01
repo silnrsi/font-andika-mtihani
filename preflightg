@@ -1,0 +1,26 @@
+#!/bin/sh
+
+# Produce individual UFOs from Glyphs files
+psfglyphs2ufo source/AndikaMtihani-RB.glyphs source
+psfglyphs2ufo source/AndikaMtihani-IBI.glyphs source
+
+# Above commands will name the Italic RegularItalic, so fix
+
+rm -R source/AndikaMtihani-Italic.ufo
+mv source/AndikaMtihani-RegularItalic.ufo source/AndikaMtihani-Italic.ufo
+
+psfnormalize source/AndikaMtihani-Regular.ufo
+psfnormalize source/AndikaMtihani-Bold.ufo
+psfnormalize source/AndikaMtihani-Italic.ufo
+psfnormalize source/AndikaMtihani-BoldItalic.ufo
+
+psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo
+psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Bold.ufo
+psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Italic.ufo
+psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-BoldItalic.ufo
+
+psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo
+psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Bold.ufo
+psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Italic.ufo
+psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-BoldItalic.ufo
+
