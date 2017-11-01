@@ -67,13 +67,13 @@ RtSqrBrac,bracketright,64
 CircumAccent,asciicircum,65
 LowLine,underscore,66
 GraveAccent,grave,67
-LtnSmA,a,1010.14
+LtnSmA,a,68
 LtnSmB,b,69
 LtnSmC,c,70
 LtnSmD,d,71
 LtnSmE,e,72
 LtnSmF,f,73
-LtnSmG,g,1610.1
+LtnSmG,g,74
 LtnSmH,h,75
 LtnSmI,i,76
 LtnSmJ,j,77
@@ -296,7 +296,7 @@ LtnSupSmTurnedA,uni1D44,1009.22
 LtnSmAlpha,uni0251,1010.1
 LtnSmBarredAlpha,uniAB30,1010.1171
 LtnSmAStrk.2StorySItal,uni2C65.2StorySItal,1010.1175
-LtnSmA.SngStory,a.SngStory,68
+LtnSmA.SngStory,a.SngStory,1010.14
 LtnSmAAcute.SngStory,aacute.SngStory,1010.14311
 LtnSmAGrave.SngStory,agrave.SngStory,1010.14313
 LtnSmADblGrave.SngStory,uni0201.SngStory,1010.14314
@@ -805,7 +805,7 @@ LtnSmGBarredBowl,uni01E5.BarBowl,1600.71
 LtnSmGStrk,uni01E5,1600.72
 LtnSmGDiagStrk,uniA7A1,1600.75
 LtnSmGDiagStrk.SngBowl,uniA7A1.SngBowl,1600.7514
-LtnSmG.SngBowl,g.SngBowl,74
+LtnSmG.SngBowl,g.SngBowl,1610.1
 LtnSmScriptG,uni0261,1610.11
 LtnSupSmScriptG,uni1DA2,1610.22
 LtnSmGAcute.SngBowl,uni01F5.SngBowl,1610.311
