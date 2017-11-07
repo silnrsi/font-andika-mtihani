@@ -47,10 +47,4 @@
       <point x="683" y="-406" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <true/>
-    </dict>
-  </lib>
 </glyph>

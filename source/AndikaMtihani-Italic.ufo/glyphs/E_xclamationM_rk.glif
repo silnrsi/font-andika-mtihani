@@ -28,10 +28,4 @@
       <point x="188" y="170"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <true/>
-    </dict>
-  </lib>
 </glyph>

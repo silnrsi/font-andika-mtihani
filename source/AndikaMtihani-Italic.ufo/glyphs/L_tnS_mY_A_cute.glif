@@ -6,10 +6,4 @@
     <component base="LtnSmY"/>
     <component base="CombAcute" xOffset="985"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <true/>
-    </dict>
-  </lib>
 </glyph>

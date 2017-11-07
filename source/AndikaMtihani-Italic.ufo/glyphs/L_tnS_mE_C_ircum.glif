@@ -6,10 +6,4 @@
     <component base="LtnSmE"/>
     <component base="CombCircum" xOffset="1104"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <true/>
-    </dict>
-  </lib>
 </glyph>
