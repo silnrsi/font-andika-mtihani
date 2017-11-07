@@ -6,10 +6,4 @@
     <component base="LtnSmA"/>
     <component base="RingAbv" xOffset="327"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <true/>
-    </dict>
-  </lib>
 </glyph>

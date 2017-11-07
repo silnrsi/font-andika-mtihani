@@ -6,10 +6,4 @@
     <component base="LtnSmU"/>
     <component base="CombGrave" xOffset="1139"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <true/>
-    </dict>
-  </lib>
 </glyph>

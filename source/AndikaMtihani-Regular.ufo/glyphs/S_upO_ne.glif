@@ -5,10 +5,4 @@
   <outline>
     <component base="DigitOne" xScale="0.7" yScale="0.65" xOffset="-18" yOffset="680"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <true/>
-    </dict>
-  </lib>
 </glyph>
