@@ -12,6 +12,7 @@ psfglyphs2ufo source/AndikaMtihani-IBI.glyphs source
 rm -R source/AndikaMtihani-Italic.ufo
 mv source/AndikaMtihani-RegularItalic.ufo source/AndikaMtihani-Italic.ufo
 
+# This normalization should also run check and fix routines
 psfnormalize source/AndikaMtihani-Regular.ufo
 psfnormalize source/AndikaMtihani-Bold.ufo
 psfnormalize source/AndikaMtihani-Italic.ufo
@@ -27,3 +28,5 @@ psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtiha
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Italic.ufo
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-BoldItalic.ufo
 
+# Here is where family sync would be run, and then the above fixeas for psnames and glyphorder
+# would no longer need to be run on non-primary fonts
