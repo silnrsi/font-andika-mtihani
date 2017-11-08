@@ -4607,7 +4607,6 @@ horizontalStems = (
 185,
 270
 );
-iconName = Regular;
 id = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
 verticalStems = (
 165,
@@ -4687,9 +4686,7 @@ horizontalStems = (
 185,
 270
 );
-iconName = Regular;
 id = "B46047BD-989B-43B8-9078-123A6A2C0348";
-name = Bold;
 verticalStems = (
 165,
 180,

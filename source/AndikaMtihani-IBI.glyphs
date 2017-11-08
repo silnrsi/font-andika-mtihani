@@ -4552,7 +4552,6 @@ alignmentZones = (
 );
 ascender = 2100;
 capHeight = 1485;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -4608,10 +4607,8 @@ horizontalStems = (
 185,
 270
 );
-iconName = Regular;
 id = "4ADCC3FB-D0FB-4B75-B2DB-909EBFDDBBE7";
 italicAngle = 14;
-name = Italic;
 verticalStems = (
 165,
 180,
@@ -4635,7 +4632,6 @@ alignmentZones = (
 );
 ascender = 2100;
 capHeight = 1485;
-custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -4691,10 +4687,8 @@ horizontalStems = (
 185,
 270
 );
-iconName = Regular;
 id = "2BACD4FA-13C8-48A2-9A3A-A482FA0CD81B";
 italicAngle = 14;
-name = "Bold Italic";
 verticalStems = (
 165,
 180,
@@ -27509,8 +27503,7 @@ interpolationWeight = 400;
 instanceInterpolations = {
 "4ADCC3FB-D0FB-4B75-B2DB-909EBFDDBBE7" = 1;
 };
-isItalic = 1;
-name = Italic;
+name = "Regular Italic";
 },
 {
 interpolationWeight = 700;
