@@ -12,8 +12,6 @@
   <integer>-550</integer>
   <key>familyName</key>
   <string>Andika Mtihani</string>
-  <key>guidelines</key>
-  <array/>
   <key>italicAngle</key>
   <integer>-14</integer>
   <key>openTypeHeadCreated</key>
@@ -111,8 +109,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
     <integer>0</integer>
   </array>
-  <key>openTypeOS2Selection</key>
-  <array/>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>700</integer>
   <key>openTypeOS2StrikeoutSize</key>
@@ -133,8 +129,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>976</integer>
   <key>openTypeOS2SuperscriptYSize</key>
   <integer>1331</integer>
-  <key>openTypeOS2Type</key>
-  <array/>
   <key>openTypeOS2TypoAscender</key>
   <integer>2100</integer>
   <key>openTypeOS2TypoDescender</key>
@@ -189,14 +183,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>1600</integer>
     <integer>1620</integer>
   </array>
-  <key>postscriptFamilyBlues</key>
-  <array/>
-  <key>postscriptFamilyOtherBlues</key>
-  <array/>
-  <key>postscriptIsFixedPitch</key>
-  <false/>
-  <key>postscriptOtherBlues</key>
-  <array/>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>140</integer>
@@ -241,7 +227,5 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>500</integer>
   <key>xHeight</key>
   <integer>1040</integer>
-  <key>year</key>
-  <integer>2017</integer>
 </dict>
 </plist>
