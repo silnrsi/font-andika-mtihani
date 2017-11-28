@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Andika Mtihani</string>
   <key>openTypeHeadCreated</key>
-  <string>2017/10/25 15:00:00</string>
+  <string>2017/11/28 12:16:21</string>
   <key>openTypeHheaAscender</key>
   <integer>2100</integer>
   <key>openTypeHheaDescender</key>
@@ -76,6 +76,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>SIL International</string>
   <key>openTypeNameManufacturerURL</key>
   <string>http://scripts.sil.org</string>
+  <key>openTypeNamePreferredFamilyName</key>
+  <string>Andika Mtihani</string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Regular</string>
   <key>openTypeNameUniqueID</key>
   <string>SIL International: Andika Mtihani Regular: 2017</string>
   <key>openTypeNameVersion</key>
@@ -181,6 +185,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>1600</integer>
     <integer>1620</integer>
   </array>
+  <key>postscriptFontName</key>
+  <string>AndikaMtihani-Regular</string>
+  <key>postscriptFullName</key>
+  <string>Andika Mtihani Regular</string>
   <key>postscriptStemSnapH</key>
   <array>
     <integer>140</integer>
