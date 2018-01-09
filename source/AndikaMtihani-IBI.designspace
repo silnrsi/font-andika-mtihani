@@ -45,7 +45,7 @@
             <info />
             <kerning />
         </instance>
-        <instance familyname="Andika Mtihani" filename="AndikaMtihani-BoldItalic.ufo" name="Andika Mtihani Bold Italic" stylemapfamilyname="Andika Mtihani" stylemapstylename="bolditalic" stylename="Bold Italic">
+        <instance familyname="Andika Mtihani" filename="AndikaMtihani-BoldItalic.ufo" name="Andika Mtihani Bold Italic" stylemapfamilyname="Andika Mtihani" stylemapstylename="bold italic" stylename="Bold Italic">
             <location>
                 <dimension name="weight" xvalue="700.000000" />
                 <dimension name="width" xvalue="100.000000" />
