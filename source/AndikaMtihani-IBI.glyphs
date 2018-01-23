@@ -1,6 +1,9 @@
 {
-.appVersion = "1082";
-copyright = "Copyright (c) 2004-2017 SIL International";
+.appVersion = "1111";
+DisplayStrings = (
+a
+);
+copyright = "Copyright (c) 2004-2018 SIL International";
 customParameters = (
 {
 name = glyphOrder;
@@ -4402,11 +4405,11 @@ value = 1;
 },
 {
 name = description;
-value = "Copyright (c) 2004-2017 SIL International";
+value = "Copyright (c) 2004-2018 SIL International";
 },
 {
 name = openTypeNameLicense;
-value = "Copyright (c) 2004-2017 SIL International (http://www.sil.org/) with Reserved Font Names \"Andika\" and \"SIL\".\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL\012\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\012\012The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.\012\012\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012\0125) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
+value = "Copyright (c) 2004-2018 SIL International (http://www.sil.org/) with Reserved Font Names \"Andika\" and \"SIL\".\012\012This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL\012\012\012-----------------------------------------------------------\012SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\012-----------------------------------------------------------\012\012PREAMBLE\012The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.\012\012The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.\012\012DEFINITIONS\012\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.\012\012\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).\012\012\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).\012\012\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.\012\012\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.\012\012PERMISSION & CONDITIONS\012Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:\012\0121) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.\012\0122) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.\012\0123) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.\012\0124) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.\012\0125) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.\012\012TERMINATION\012This license becomes null and void if any of the above conditions are not met.\012\012DISCLAIMER\012THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.";
 },
 {
 name = openTypeNameLicenseURL;
@@ -4414,11 +4417,11 @@ value = "http://scripts.sil.org/OFL";
 },
 {
 name = openTypeNameUniqueID;
-value = "SIL International: Andika Mtihani Italic: 2017";
+value = "SIL International: Andika Mtihani Italic: 2018";
 },
 {
 name = openTypeNameVersion;
-value = "Version 5.500";
+value = "Version 5.550";
 },
 {
 name = codePageRanges;
@@ -4529,18 +4532,12 @@ name = trademark;
 value = "Andika is a trademark of SIL International.";
 }
 );
-date = "2017-10-25 14:00:00 +0000";
+date = "2018-01-23 02:50:04 +0000";
 designer = "Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner";
 designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Andika Mtihani";
-featurePrefixes = (
-{
-code = "table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ CircumAccent GraveAccent LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS AcuteAccent Diaer LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Cedilla Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh SupOne SupTwo SupThree Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombRingAbv CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ CircumAccent GraveAccent LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS AcuteAccent Diaer LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Cedilla Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh SupOne SupTwo SupThree Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombRingAbv CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ CircumAccent GraveAccent LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS AcuteAccent Diaer LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Cedilla Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh SupOne SupTwo SupThree Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombRingAbv CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ CircumAccent GraveAccent LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS AcuteAccent Diaer LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Cedilla Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh SupOne SupTwo SupThree Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombRingAbv CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;";
-name = Prefix;
-}
-);
 fontMaster = (
 {
 alignmentZones = (
@@ -4552,6 +4549,7 @@ alignmentZones = (
 );
 ascender = 2100;
 capHeight = 1485;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -4632,6 +4630,7 @@ alignmentZones = (
 );
 ascender = 2100;
 capHeight = 1485;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -11150,12 +11149,12 @@ nodes = (
 "955 1019 OFFCURVE",
 "751 1019 CURVE SMOOTH",
 "599 1019 OFFCURVE",
-"502 974 OFFCURVE",
-"389 931 CURVE",
-"373 889 OFFCURVE",
-"343 783 OFFCURVE",
-"331 740 CURVE",
-"468 820 OFFCURVE",
+"501 974 OFFCURVE",
+"388 931 CURVE",
+"372 889 OFFCURVE",
+"342 783 OFFCURVE",
+"330 740 CURVE",
+"467 820 OFFCURVE",
 "560 862 OFFCURVE",
 "666 862 CURVE SMOOTH",
 "798 862 OFFCURVE",
@@ -11251,12 +11250,12 @@ nodes = (
 "1026 1030 OFFCURVE",
 "791 1030 CURVE SMOOTH",
 "632 1030 OFFCURVE",
-"514 994 OFFCURVE",
-"389 940 CURVE",
-"363 859 OFFCURVE",
-"327 728 OFFCURVE",
-"315 684 CURVE",
-"452 765 OFFCURVE",
+"515 994 OFFCURVE",
+"390 940 CURVE",
+"364 859 OFFCURVE",
+"328 728 OFFCURVE",
+"316 684 CURVE",
+"453 765 OFFCURVE",
 "565 808 OFFCURVE",
 "673 808 CURVE SMOOTH",
 "809 808 OFFCURVE",
@@ -27503,7 +27502,8 @@ interpolationWeight = 400;
 instanceInterpolations = {
 "4ADCC3FB-D0FB-4B75-B2DB-909EBFDDBBE7" = 1;
 };
-name = "Regular Italic";
+isItalic = 1;
+name = Italic;
 },
 {
 interpolationWeight = 700;
@@ -27521,6 +27521,8 @@ manufacturerURL = "http://scripts.sil.org";
 unitsPerEm = 2048;
 userData = {
 UFO.lib = {
+com.schriftgestaltung.DisplayStrings = "";
+com.schriftgestaltung.customValue = 0;
 org.sil.lcg.toneLetters = {
 contourWidth = 480;
 dotSize = 180;
@@ -31928,5 +31930,5 @@ ZeroWidthSpace.ShowInv = uni200B.ShowInv;
 UFOFormat = 3;
 };
 versionMajor = 5;
-versionMinor = 500;
+versionMinor = 550;
 }
