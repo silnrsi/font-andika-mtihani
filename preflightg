@@ -1,32 +1,17 @@
 #!/bin/sh
 
-# Note that this glyphsLib-based export process will produce UFOs that are incorrect,
-# so do not blindly check in any changes after running it without first very carefully
-# reviewing all changes
-
 # Produce individual UFOs from Glyphs files
 psfglyphs2ufo source/AndikaMtihani-RB.glyphs source
 psfglyphs2ufo source/AndikaMtihani-IBI.glyphs source
 
-# Above commands will name the Italic RegularItalic, so fix
-rm -R source/AndikaMtihani-Italic.ufo
-mv source/AndikaMtihani-RegularItalic.ufo source/AndikaMtihani-Italic.ufo
-
-# This normalization should also run check and fix routines
-psfnormalize source/AndikaMtihani-Regular.ufo
-psfnormalize source/AndikaMtihani-Bold.ufo
-psfnormalize source/AndikaMtihani-Italic.ufo
-psfnormalize source/AndikaMtihani-BoldItalic.ufo
+# This normalization will also run check and fix routines
+psfnormalize -p checkfix=fix source/AndikaMtihani-Regular.ufo
+psfnormalize -p checkfix=fix source/AndikaMtihani-Bold.ufo
+psfnormalize -p checkfix=fix source/AndikaMtihani-Italic.ufo
+psfnormalize -p checkfix=fix source/AndikaMtihani-BoldItalic.ufo
 
 psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo
-psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Bold.ufo
-psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Italic.ufo
-psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-BoldItalic.ufo
-
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo
-psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Bold.ufo
-psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Italic.ufo
-psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-BoldItalic.ufo
 
-# Here is where family sync would be run, and then the above fixeas for psnames and glyphorder
-# would no longer need to be run on non-primary fonts
+# Following sync will copy psnames and glyphorder updates to all fonts
+psfsyncmasters source/AndikaMtihani-RB.designspace source/AndikaMtihani-IBI.designspace
