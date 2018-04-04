@@ -2,6 +2,7 @@
 <glyph name="LtnSmP" format="2">
   <advance width="1170"/>
   <unicode hex="0070"/>
+  <guideline x="214" y="-490" angle="0"/>
   <anchor x="265" y="-435" name="H"/>
   <anchor x="590" y="-500" name="L"/>
   <anchor x="1170" y="1000" name="R"/>

@@ -4534,7 +4534,7 @@ name = trademark;
 value = "Andika is a trademark of SIL International.";
 }
 );
-date = "2018-04-04 10:03:27 +0000";
+date = "2018-04-04 11:49:46 +0000";
 designer = "Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner";
 designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
@@ -4542,7 +4542,7 @@ disablesNiceNames = 1;
 familyName = "Andika Mtihani";
 featurePrefixes = (
 {
-code = "table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ CircumAccent GraveAccent LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS AcuteAccent Diaer LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Cedilla Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh SupOne SupTwo SupThree Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombRingAbv CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;";
+code = "table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmSchwa LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla LtnCapA.alt], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;";
 name = Prefix;
 }
 );
@@ -4600,6 +4600,11 @@ value = -110;
 }
 );
 descender = -550;
+guideLines = (
+{
+position = "{1084, 1040}";
+}
+);
 horizontalStems = (
 140,
 145,
@@ -7707,6 +7712,72 @@ name = U;
 position = "{687, 1530}";
 }
 );
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"407 1312 OFFCURVE",
+"512 1315 OFFCURVE",
+"590 1315 CURVE SMOOTH",
+"791 1315 OFFCURVE",
+"870 1239 OFFCURVE",
+"870 1090 CURVE SMOOTH",
+"870 951 OFFCURVE",
+"774 855 OFFCURVE",
+"560 855 CURVE SMOOTH",
+"365 855 LINE",
+"365 1310 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"175 257 OFFCURVE",
+"175 80 OFFCURVE",
+"160 0 CURVE",
+"213 -5 OFFCURVE",
+"402 -10 OFFCURVE",
+"605 -10 CURVE SMOOTH",
+"988 -10 OFFCURVE",
+"1140 177 OFFCURVE",
+"1140 420 CURVE SMOOTH",
+"1140 669 OFFCURVE",
+"974 759 OFFCURVE",
+"820 800 CURVE",
+"956 852 OFFCURVE",
+"1065 952 OFFCURVE",
+"1065 1120 CURVE SMOOTH",
+"1065 1381 OFFCURVE",
+"897 1470 OFFCURVE",
+"600 1470 CURVE SMOOTH",
+"431 1470 OFFCURVE",
+"248 1466 OFFCURVE",
+"160 1460 CURVE",
+"175 1380 OFFCURVE",
+"175 1196 OFFCURVE",
+"175 1000 CURVE SMOOTH",
+"175 455 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"600 700 LINE SMOOTH",
+"833 700 OFFCURVE",
+"945 604 OFFCURVE",
+"945 420 CURVE SMOOTH",
+"945 212 OFFCURVE",
+"781 150 OFFCURVE",
+"610 150 CURVE SMOOTH",
+"498 150 OFFCURVE",
+"402 153 OFFCURVE",
+"365 155 CURVE",
+"365 700 LINE"
+);
+}
+);
+};
 layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
 paths = (
 {
@@ -12342,6 +12413,12 @@ name = U;
 position = "{572, 1635}";
 }
 );
+guideLines = (
+{
+angle = 46;
+position = "{500, 774}";
+}
+);
 layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
 paths = (
 {
@@ -12926,6 +13003,11 @@ position = "{1170, 1000}";
 {
 name = U;
 position = "{590, 1100}";
+}
+);
+guideLines = (
+{
+position = "{214, -490}";
 }
 );
 layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
@@ -23974,6 +24056,140 @@ width = 1500;
 unicode = 00D0;
 },
 {
+glyphname = LtnSmSchwa;
+layers = (
+{
+anchors = (
+{
+name = H;
+position = "{541, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = O;
+position = "{598, 0}";
+},
+{
+name = R;
+position = "{1095, 1000}";
+},
+{
+name = U;
+position = "{540, 1100}";
+}
+);
+layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
+paths = (
+{
+closed = 1;
+nodes = (
+"240 826 OFFCURVE",
+"351 875 OFFCURVE",
+"480 875 CURVE SMOOTH",
+"666 875 OFFCURVE",
+"800 741 OFFCURVE",
+"800 515 CURVE SMOOTH",
+"800 272 OFFCURVE",
+"732 120 OFFCURVE",
+"525 120 CURVE SMOOTH",
+"368 120 OFFCURVE",
+"285 216 OFFCURVE",
+"285 388 CURVE",
+"835 388 LINE",
+"835 525 LINE",
+"101 525 LINE",
+"100 506 OFFCURVE",
+"100 469 OFFCURVE",
+"100 450 CURVE SMOOTH",
+"100 213 OFFCURVE",
+"180 -25 OFFCURVE",
+"510 -25 CURVE SMOOTH",
+"827 -25 OFFCURVE",
+"983 198 OFFCURVE",
+"983 529 CURVE SMOOTH",
+"983 859 OFFCURVE",
+"760 1040 OFFCURVE",
+"505 1040 CURVE SMOOTH",
+"352 1040 OFFCURVE",
+"246 992 OFFCURVE",
+"110 910 CURVE",
+"130 745 LINE"
+);
+}
+);
+width = 1078;
+},
+{
+anchors = (
+{
+name = H;
+position = "{569, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{900, 0}";
+},
+{
+name = R;
+position = "{1130, 1000}";
+},
+{
+name = U;
+position = "{537, 1100}";
+}
+);
+layerId = "B46047BD-989B-43B8-9078-123A6A2C0348";
+paths = (
+{
+closed = 1;
+nodes = (
+"1010 469 OFFCURVE",
+"1009 513 OFFCURVE",
+"1009 532 CURVE SMOOTH",
+"1009 782 OFFCURVE",
+"924 1040 OFFCURVE",
+"589 1040 CURVE SMOOTH",
+"281 1040 OFFCURVE",
+"90 826 OFFCURVE",
+"90 495 CURVE SMOOTH",
+"90 155 OFFCURVE",
+"324 -25 OFFCURVE",
+"589 -25 CURVE SMOOTH",
+"745 -25 OFFCURVE",
+"871 2 OFFCURVE",
+"1015 75 CURVE",
+"994 306 LINE",
+"870 232 OFFCURVE",
+"745 205 OFFCURVE",
+"614 205 CURVE SMOOTH",
+"448 205 OFFCURVE",
+"362 293 OFFCURVE",
+"362 505 CURVE SMOOTH",
+"362 739 OFFCURVE",
+"431 830 OFFCURVE",
+"575 830 CURVE SMOOTH",
+"693 830 OFFCURVE",
+"755 770 OFFCURVE",
+"755 630 CURVE",
+"242 630 LINE",
+"242 450 LINE",
+"1010 450 LINE"
+);
+}
+);
+width = 1110;
+}
+);
+unicode = 0259;
+},
+{
 glyphname = GrCapPi;
 layers = (
 {
@@ -26128,6 +26344,113 @@ width = 0;
 }
 );
 unicode = 0327;
+},
+{
+glyphname = LtnCapA.alt;
+layers = (
+{
+anchors = (
+{
+name = H;
+position = "{668, 1460}";
+},
+{
+name = L;
+position = "{688, 1560}";
+},
+{
+name = O;
+position = "{-75, 1460}";
+},
+{
+name = U;
+position = "{688, -70}";
+}
+);
+layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
+paths = (
+{
+closed = 1;
+nodes = (
+"996 1075 LINE",
+"381 1075 LINE",
+"245 1460 LINE",
+"40 1460 LINE",
+"75 1380 OFFCURVE",
+"113 1291 OFFCURVE",
+"180 1105 CURVE SMOOTH",
+"580 0 LINE",
+"795 0 LINE",
+"1195 1105 LINE SMOOTH",
+"1263 1292 OFFCURVE",
+"1299 1379 OFFCURVE",
+"1335 1460 CURVE",
+"1130 1460 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"942 920 LINE",
+"690 195 LINE",
+"435 920 LINE"
+);
+}
+);
+width = 1395;
+},
+{
+anchors = (
+{
+name = H;
+position = "{1275, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{1495, 0}";
+},
+{
+name = U;
+position = "{732, 1530}";
+}
+);
+layerId = "B46047BD-989B-43B8-9078-123A6A2C0348";
+paths = (
+{
+closed = 1;
+nodes = (
+"1408 0 LINE",
+"1373 80 OFFCURVE",
+"1341 168 OFFCURVE",
+"1278 355 CURVE SMOOTH",
+"908 1460 LINE",
+"552 1460 LINE",
+"182 355 LINE SMOOTH",
+"119 166 OFFCURVE",
+"88 81 OFFCURVE",
+"52 0 CURVE",
+"350 0 LINE",
+"460 355 LINE",
+"1004 355 LINE",
+"1115 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"936 570 LINE",
+"526 570 LINE",
+"730 1228 LINE"
+);
+}
+);
+width = 1485;
+}
+);
 }
 );
 instances = (
