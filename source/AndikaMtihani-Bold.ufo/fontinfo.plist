@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>Andika Mtihani</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/01/22 20:50:02</string>
+  <string>2018/04/04 10:56:25</string>
   <key>openTypeHheaAscender</key>
   <integer>2100</integer>
   <key>openTypeHheaDescender</key>
@@ -131,6 +131,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>976</integer>
   <key>openTypeOS2SuperscriptYSize</key>
   <integer>1331</integer>
+  <key>openTypeOS2Type</key>
+  <array/>
   <key>openTypeOS2TypoAscender</key>
   <integer>2100</integer>
   <key>openTypeOS2TypoDescender</key>
