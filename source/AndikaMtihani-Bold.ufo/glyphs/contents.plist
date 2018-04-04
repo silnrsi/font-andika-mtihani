@@ -168,6 +168,8 @@
   <string>L_ozenge.glif</string>
   <key>LtnCapA</key>
   <string>L_tnC_apA_.glif</string>
+  <key>LtnCapA.alt</key>
+  <string>L_tnC_apA_.alt.glif</string>
   <key>LtnCapAAcute</key>
   <string>L_tnC_apA_A_cute.glif</string>
   <key>LtnCapACircum</key>
@@ -386,6 +388,8 @@
   <string>L_tnS_mS_.glif</string>
   <key>LtnSmSCaron</key>
   <string>L_tnS_mS_C_aron.glif</string>
+  <key>LtnSmSchwa</key>
+  <string>L_tnS_mS_chwa.glif</string>
   <key>LtnSmSharpS</key>
   <string>L_tnS_mS_harpS_.glif</string>
   <key>LtnSmT</key>
