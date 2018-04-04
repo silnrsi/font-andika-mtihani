@@ -7,12 +7,12 @@
     <string>glyphs</string>
   </array>
   <array>
-    <string>testlayer</string>
-    <string>glyphs.testlayer</string>
-  </array>
-  <array>
     <string>public.background</string>
     <string>glyphs.public.background</string>
+  </array>
+  <array>
+    <string>gtestlayer</string>
+    <string>glyphs.gtestlayer</string>
   </array>
 </array>
 </plist>

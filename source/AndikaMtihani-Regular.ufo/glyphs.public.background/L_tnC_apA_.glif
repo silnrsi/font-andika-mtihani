@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="LtnCapA" format="2">
-  <advance width="1285"/>
-  <unicode hex="0042"/>
-  <anchor x="615" y="-100" name="L"/>
-  <anchor x="615" y="1530" name="U"/>
+  <advance width="1395"/>
   <outline>
     <contour>
       <point x="365" y="1310" type="line"/>
