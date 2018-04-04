@@ -22,6 +22,10 @@
       <key>y</key>
       <integer>1040</integer>
     </dict>
+    <dict>
+      <key>y</key>
+      <integer>1250</integer>
+    </dict>
   </array>
   <key>openTypeHeadCreated</key>
   <string>2018/04/04 16:58:48</string>

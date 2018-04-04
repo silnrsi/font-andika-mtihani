@@ -4534,7 +4534,7 @@ name = trademark;
 value = "Andika is a trademark of SIL International.";
 }
 );
-date = "2018-04-04 11:49:46 +0000";
+date = "2018-04-04 15:58:48 +0000";
 designer = "Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner";
 designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
@@ -4542,7 +4542,7 @@ disablesNiceNames = 1;
 familyName = "Andika Mtihani";
 featurePrefixes = (
 {
-code = "table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmSchwa LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla LtnCapA.alt], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;";
+code = "table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmSchwa LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla LtnCapA.alt], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Ogonek Caron LtnSmEth LtnCapEth LtnSmSchwa LtnSmThorn LtnCapThorn LtnCapEsh Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombCedilla LtnCapA.alt], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;";
 name = Prefix;
 }
 );
@@ -4603,6 +4603,9 @@ descender = -550;
 guideLines = (
 {
 position = "{1084, 1040}";
+},
+{
+position = "{0, 1250}";
 }
 );
 horizontalStems = (
@@ -12415,7 +12418,7 @@ position = "{572, 1635}";
 );
 guideLines = (
 {
-angle = 46;
+angle = 314;
 position = "{500, 774}";
 }
 );
@@ -12535,6 +12538,12 @@ position = "{550, 1000}";
 {
 name = U;
 position = "{282, 1635}";
+}
+);
+guideLines = (
+{
+angle = 340;
+position = "{500, 874}";
 }
 );
 layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
@@ -13294,6 +13303,11 @@ position = "{255, -100}";
 {
 name = U;
 position = "{455, 1100}";
+}
+);
+guideLines = (
+{
+position = "{214, 500}";
 }
 );
 layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
