@@ -1,5 +1,5 @@
 {
-.appVersion = "1126";
+.appVersion = "1127";
 copyright = "Copyright (c) 2004-2018 SIL International";
 customParameters = (
 {
@@ -4540,12 +4540,6 @@ designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
 disablesNiceNames = 1;
 familyName = "Andika Mtihani";
-featurePrefixes = (
-{
-code = "table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ CircumAccent GraveAccent LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS AcuteAccent Diaer LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Cedilla Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh SupOne SupTwo SupThree Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombRingAbv CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;\012\012table GDEF {\012  # automatic\012  GlyphClassDef\012    [HyphenMinus DigitZero DigitOne DigitTwo DigitThree DigitFour DigitFive DigitSix DigitSeven DigitEight DigitNine LtnCapA LtnCapB LtnCapC LtnCapD LtnCapE LtnCapF LtnCapG LtnCapH LtnCapI LtnCapJ LtnCapK LtnCapL LtnCapM LtnCapN LtnCapO LtnCapP LtnCapQ LtnCapR LtnCapS LtnCapT LtnCapU LtnCapV LtnCapW LtnCapX LtnCapY LtnCapZ CircumAccent GraveAccent LtnSmA LtnSmB LtnSmC LtnSmD LtnSmE LtnSmF LtnSmG LtnSmH LtnSmI LtnSmJ LtnSmK LtnSmL LtnSmM LtnSmN LtnSmO LtnSmP LtnSmQ LtnSmR LtnSmS LtnSmT LtnSmU LtnSmV LtnSmW LtnSmX LtnSmY LtnSmZ LtnSmSharpS AcuteAccent Diaer LtnCapAe LtnCapOStrk GrSmPi LtnSmAe LtnSmOStrk LtnSmFHook LtnCapLigOe LtnSmLigOe LtnSmLigFi LtnSmLigFl DottedCirc LtnSmDotlessI Breve Cedilla Ogonek Caron LtnSmEth LtnCapEth LtnSmThorn LtnCapThorn LtnCapEsh SupOne SupTwo SupThree Hyphen CombAcute CombGrave CombCircum CombCaron CombTilde CombDiaer CombRingAbv CombCedilla], # Base\012    , # Liga\012    , # Mark\012    ;\012} GDEF;";
-name = Prefix;
-}
-);
 fontMaster = (
 {
 alignmentZones = (
