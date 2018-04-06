@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Produce individual UFOs from Glyphs files
-psfglyphs2ufo source/AndikaMtihani-RB.glyphs source
-psfglyphs2ufo source/AndikaMtihani-IBI.glyphs source
+psfglyphs2ufo --nofea source/AndikaMtihani-RB.glyphs source
+psfglyphs2ufo --nofea source/AndikaMtihani-IBI.glyphs source
 
 # This normalization will also run check and fix routines
 psfnormalize -p checkfix=fix source/AndikaMtihani-Regular.ufo
