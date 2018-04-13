@@ -27,8 +27,14 @@
       <integer>1250</integer>
     </dict>
   </array>
+  <key>note</key>
+  <string>Test note
+Second line
+
+Third line
+</string>
   <key>openTypeHeadCreated</key>
-  <string>2018/04/04 16:58:48</string>
+  <string>2018/04/13 19:17:19</string>
   <key>openTypeHheaAscender</key>
   <integer>2100</integer>
   <key>openTypeHheaDescender</key>

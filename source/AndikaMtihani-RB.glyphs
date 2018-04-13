@@ -1,5 +1,8 @@
 {
-.appVersion = "1127";
+.appVersion = "1128";
+DisplayStrings = (
+a
+);
 copyright = "Copyright (c) 2004-2018 SIL International";
 customParameters = (
 {
@@ -4532,9 +4535,13 @@ value = SIL;
 {
 name = trademark;
 value = "Andika is a trademark of SIL International.";
+},
+{
+name = note;
+value = "Test note\012Second line\012\012Third line\012";
 }
 );
-date = "2018-04-04 15:58:48 +0000";
+date = "2018-04-04 14:58:48 +0000";
 designer = "Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner";
 designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
@@ -10972,6 +10979,13 @@ name = U;
 position = "{540, 1100}";
 }
 );
+annotations = (
+{
+position = "{-483, 894}";
+text = "Glyph Annotation";
+type = Text;
+}
+);
 layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
 paths = (
 {
@@ -11124,6 +11138,7 @@ nodes = (
 width = 1205;
 }
 );
+note = "GlyphNote A";
 unicode = 0061;
 },
 {

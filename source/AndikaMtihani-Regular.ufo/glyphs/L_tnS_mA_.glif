@@ -2,6 +2,9 @@
 <glyph name="LtnSmA" format="2">
   <advance width="1120"/>
   <unicode hex="0061"/>
+  <note>
+    GlyphNote A
+  </note>
   <anchor x="540" y="0" name="H"/>
   <anchor x="540" y="-100" name="L"/>
   <anchor x="1125" y="0" name="O"/>
@@ -62,4 +65,22 @@
       <point x="765" y="495" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.annotations</key>
+      <array>
+        <dict>
+          <key>position</key>
+          <array>
+            <integer>-483</integer>
+            <integer>894</integer>
+          </array>
+          <key>text</key>
+          <string>Glyph Annotation</string>
+          <key>type</key>
+          <string>Text</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>
