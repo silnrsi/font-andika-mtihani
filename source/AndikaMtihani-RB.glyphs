@@ -1,8 +1,5 @@
 {
-.appVersion = "1128";
-DisplayStrings = (
-a
-);
+.appVersion = "1131";
 copyright = "Copyright (c) 2004-2018 SIL International";
 customParameters = (
 {
@@ -4404,6 +4401,10 @@ name = "Disable Last Change";
 value = 1;
 },
 {
+name = note;
+value = "Test note\012Second line\012\012Third line\012";
+},
+{
 name = description;
 value = "Copyright (c) 2004-2018 SIL International";
 },
@@ -4535,13 +4536,9 @@ value = SIL;
 {
 name = trademark;
 value = "Andika is a trademark of SIL International.";
-},
-{
-name = note;
-value = "Test note\012Second line\012\012Third line\012";
 }
 );
-date = "2018-04-04 14:58:48 +0000";
+date = "2018-04-13 18:17:19 +0000";
 designer = "Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner";
 designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
@@ -8031,6 +8028,7 @@ width = 1385;
 unicode = 0042;
 },
 {
+color = 6;
 glyphname = LtnCapC;
 layers = (
 {
@@ -8139,6 +8137,7 @@ width = 1385;
 unicode = 0043;
 },
 {
+color = 5;
 glyphname = LtnCapD;
 layers = (
 {
