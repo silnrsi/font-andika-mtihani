@@ -8,6 +8,8 @@
 results/**
 buildlinux2/**
 bin/**
+.venv/
+source/*.log
 
 # general backup files
 *~
@@ -88,7 +90,6 @@ $RECYCLE.BIN/
 # VM helpers
 .vagrant/
 .docker/
-*.log
 
 # Other
 .sass-cache/
