@@ -10,7 +10,7 @@ ufo2ft = "*"
 defcon = "*"
 ufoLib = "*"
 cu2qu = "*"
-glyphsLib = "*"
+glyphsLib = "2.2.1"
 compreffor = "*"
 booleanoperations = "*"
 mutatorMath = "*"
@@ -19,8 +19,6 @@ fontParts = "*"
 [dev-packages]
 pytest = "*"
 
-
 [requires]
 python_version = "2.7"
 # python_version = "3.6"
-
