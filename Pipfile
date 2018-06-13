@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fontTools = "*"
+lz4 = "*"
+ufo2ft = "*"
+defcon = "*"
+ufoLib = "*"
+cu2qu = "*"
+glyphsLib = "*"
+compreffor = "*"
+booleanoperations = "*"
+mutatorMath = "*"
+fontParts = "*"
+
+[dev-packages]
+pytest = "*"
+
+
+[requires]
+python_version = "2.7"
+# python_version = "3.6"
+
