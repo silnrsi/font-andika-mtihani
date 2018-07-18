@@ -1,5 +1,5 @@
 {
-.appVersion = "1131";
+.appVersion = "1158";
 copyright = "Copyright (c) 2004-2018 SIL International";
 customParameters = (
 {
@@ -4538,7 +4538,7 @@ name = trademark;
 value = "Andika is a trademark of SIL International.";
 }
 );
-date = "2018-04-13 18:17:19 +0000";
+date = "2018-04-16 13:30:37 +0000";
 designer = "Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner";
 designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
@@ -8028,7 +8028,7 @@ width = 1385;
 unicode = 0042;
 },
 {
-color = 6;
+color = (255,0,0,128);
 glyphname = LtnCapC;
 layers = (
 {
@@ -8258,6 +8258,9 @@ width = 1485;
 }
 );
 unicode = 0044;
+userData = {
+public.markColor = "0.04,0.57,0.04,1";
+};
 },
 {
 glyphname = LtnCapE;
@@ -10978,13 +10981,6 @@ name = U;
 position = "{540, 1100}";
 }
 );
-annotations = (
-{
-position = "{-483, 894}";
-text = "Glyph Annotation";
-type = Text;
-}
-);
 layerId = "227CFDA3-9046-4C35-BCA7-2E12199138C9";
 paths = (
 {
@@ -11137,8 +11133,20 @@ nodes = (
 width = 1205;
 }
 );
-note = "GlyphNote A";
+note = "\012    \012    GlyphNote A\012    \012  ";
 unicode = 0061;
+userData = {
+com.schriftgestaltung.annotations = (
+{
+position = (
+-483,
+894
+);
+text = "Glyph Annotation";
+type = Text;
+}
+);
+};
 },
 {
 glyphname = LtnSmB;
