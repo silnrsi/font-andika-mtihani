@@ -1,0 +1,56 @@
+# You can freely (re)use this Travis template to enable CI (Continuous Integration) for your own open font project.
+# Your project needs to make use of smith. See https://github.com/silnrsi/smith
+# You may need to adjust some variables like user/project and OAuth tokens.
+# For documentation on the recommended steps see Font Development Best Practises at http://silnrsi.github.io/FDBP
+# More details in the Travis documentation at https://docs.travis-ci.com/user/getting-started
+# Enjoy and let us know if you find issues.
+
+
+language: python
+python:
+- '2.7'
+sudo: true
+os: linux
+dist: xenial
+
+before_install:
+- sudo add-apt-repository -y ppa:silnrsi/smith
+- sudo add-apt-repository -y ppa:fontforge/fontforge
+- sudo add-apt-repository -y ppa:jonathonf/texlive-2018
+- sudo apt-get update -y
+
+install:
+- sudo apt-get install sile python-odf python-odf-tools libjson-perl libtext-csv-perl libharfbuzz-bin -y
+- sudo apt-get install smith-font -y --no-install-recommends
+script:
+- smith configure
+- smith build
+- smith alltests
+- smith fontlint
+- smith zip
+- smith tarball
+- smith release
+
+deploy:
+  provider: releases
+  skip_cleanup: true
+  api_key:
+    secure: (add your secure api key here)
+  file_glob: true
+  file:
+    - results/releases/*
+    - results/*.html
+    - results/*.pdf
+    - results/*.txt
+    - results/*err*
+    - results/tests/*
+  on:
+    tags: true
+    all_branches: true
+    repo: user/project (add you authorized username and projectname here)
+notifications:
+  email: false  # foo@foo-project.org
+  irc: false  # "irc.freenode.org#foo-project"
+env:
+  global:
+    secure: (add your secure global key here)
