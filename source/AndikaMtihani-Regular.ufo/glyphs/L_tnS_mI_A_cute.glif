@@ -2,6 +2,11 @@
 <glyph name="LtnSmIAcute" format="2">
   <advance width="565"/>
   <unicode hex="00ED"/>
+  <anchor x="285" y="0" name="H"/>
+  <anchor x="550" y="1000" name="R"/>
+  <anchor x="285" y="1635" name="U"/>
+  <anchor x="285" y="-100" name="L"/>
+  <anchor x="520" y="0" name="O"/>
   <outline>
     <component base="LtnSmDotlessI"/>
     <component base="CombAcute" xOffset="855"/>
