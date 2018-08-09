@@ -1,22 +1,13 @@
 #!/usr/bin/python
 # this is a smith configuration file
 
-# set the default output folders
-out="results"
-DOCDIR="documentation"
-OUTDIR="installers"
-ZIPDIR="releases"
-TESTDIR='tests'
-TESTRESULTSDIR = 'test-results'
-STANDARDS = 'standards'
+# output folders use smith defaults and don't need to be set here
+
+# set the version control system for srcdist
+VCS = 'git'
 
 # set the font name, version, licensing and description
 APPNAME="AndikaMtihani"
-FILENAMEBASE="AndikaMtihani"
-VERSION="5.500"
-TTF_VERSION="5.500"
-COPYRIGHT="Copyright (c) 2004-2015, SIL International (http://www.sil.org)"
-LICENSE='OFL.txt'
 
 DESC_SHORT = "Test font for UFO workflows"
 DESC_LONG = """
@@ -28,13 +19,12 @@ may not work as you expect!
 DESC_NAME = "AndikaMtihani"
 DEBPKG = 'fonts-sil-andikamtihani'
 
-for style in ('-Regular','-Bold','-Italic','-BoldItalic') :
-    font(target = FILENAMEBASE + style + '.ttf',
-        buildusingfontforge = 1,
-        source = 'source/' + FILENAMEBASE + style + '.ufo',
-        version = VERSION,
-        license = ofl('Andika'),
-        script = 'latn',
-        fret = fret(params = '-r'),
-        woff = woff()
+getufoinfo('source/AndikaMtihani-Regular.ufo')
+
+fontfamily=APPNAME
+for dspace in ('Roman', 'Italic'):
+    designspace('source/' + fontfamily + dspace + '.designspace',
+                target = "${DS:FILENAME_BASE}.ttf",
+                pdf = fret(params="-r -oi"),
+                woff = woff()
     )
