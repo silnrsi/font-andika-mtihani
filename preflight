@@ -10,4 +10,4 @@ psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l sourc
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log
 
 # Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters source/AndikaMtihani-RB.designspace source/AndikaMtihani-IBI.designspace -l source/logs/sync.log
+psfsyncmasters source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace -l source/logs/sync.log

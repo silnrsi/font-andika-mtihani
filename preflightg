@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Produce individual UFOs from Glyphs files
-psfglyphs2ufo --nofea source/AndikaMtihani-RB.glyphs source
-psfglyphs2ufo --nofea source/AndikaMtihani-IBI.glyphs source
+psfglyphs2ufo --nofea source/AndikaMtihaniRoman.glyphs source -l source/logs/glyphs2ufoR.log
+psfglyphs2ufo --nofea source/AndikaMtihaniItalic.glyphs source -l source/logs/glyphs2ufoI.log
 
 # This normalization will also run check and fix routines
 psfnormalize -p checkfix=fix source/AndikaMtihani-Regular.ufo -l source/logs/normR.log
@@ -14,4 +14,4 @@ psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l sourc
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log
 
 # Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters source/AndikaMtihani-RB.designspace source/AndikaMtihani-IBI.designspace -l source/logs/sync.log
+psfsyncmasters source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace -l source/logs/sync.log
