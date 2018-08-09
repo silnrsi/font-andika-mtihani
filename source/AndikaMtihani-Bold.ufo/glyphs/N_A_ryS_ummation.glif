@@ -2,6 +2,8 @@
 <glyph name="NArySummation" format="2">
   <advance width="1250"/>
   <unicode hex="2211"/>
+  <anchor x="590" y="1530" name="U"/>
+  <anchor x="590" y="-100" name="L"/>
   <outline>
     <component base="LtnCapEsh"/>
   </outline>

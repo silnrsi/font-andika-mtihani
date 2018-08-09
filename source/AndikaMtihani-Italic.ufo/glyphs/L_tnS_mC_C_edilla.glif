@@ -2,6 +2,9 @@
 <glyph name="LtnSmCCedilla" format="2">
   <advance width="989"/>
   <unicode hex="00E7"/>
+  <anchor x="1210" y="1000" name="R"/>
+  <anchor x="785" y="1100" name="U"/>
+  <anchor x="360" y="-520" name="L"/>
   <outline>
     <component base="LtnSmC"/>
     <component base="CombCedilla" xOffset="1010"/>

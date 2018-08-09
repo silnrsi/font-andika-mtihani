@@ -2,6 +2,11 @@
 <glyph name="LtnCapEDiaer" format="2">
   <advance width="1192"/>
   <unicode hex="00CB"/>
+  <anchor x="550" y="0" name="H"/>
+  <anchor x="1487" y="1200" name="R"/>
+  <anchor x="1054" y="2015" name="U"/>
+  <anchor x="525" y="-100" name="L"/>
+  <anchor x="944" y="0" name="O"/>
   <outline>
     <component base="LtnCapE"/>
     <component base="CombDiaer" xOffset="1297" yOffset="430"/>

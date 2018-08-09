@@ -2,6 +2,9 @@
 <glyph name="LtnSmNTilde" format="2">
   <advance width="1195"/>
   <unicode hex="00F1"/>
+  <anchor x="540" y="0" name="H"/>
+  <anchor x="910" y="1475" name="U"/>
+  <anchor x="565" y="-100" name="L"/>
   <outline>
     <component base="LtnSmN"/>
     <component base="CombTilde" xOffset="1200"/>

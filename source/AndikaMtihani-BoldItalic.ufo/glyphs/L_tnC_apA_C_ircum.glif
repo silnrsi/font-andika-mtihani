@@ -2,6 +2,10 @@
 <glyph name="LtnCapACircum" format="2">
   <advance width="1465"/>
   <unicode hex="00C2"/>
+  <anchor x="1215" y="0" name="H"/>
+  <anchor x="1145" y="2065" name="U"/>
+  <anchor x="647" y="-100" name="L"/>
+  <anchor x="1435" y="0" name="O"/>
   <outline>
     <component base="LtnCapA"/>
     <component base="CombCircum" xOffset="1384" yOffset="430"/>
