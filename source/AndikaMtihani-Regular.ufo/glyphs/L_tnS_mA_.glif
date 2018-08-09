@@ -4,7 +4,9 @@
   <unicode hex="0061"/>
   <note>
     
+    
     GlyphNote A
+    
     
   </note>
   <anchor x="540" y="0" name="H"/>
@@ -67,22 +69,4 @@
       <point x="765" y="495" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.annotations</key>
-      <array>
-        <dict>
-          <key>position</key>
-          <array>
-            <integer>-483</integer>
-            <integer>894</integer>
-          </array>
-          <key>text</key>
-          <string>Glyph Annotation</string>
-          <key>type</key>
-          <string>Text</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
 </glyph>

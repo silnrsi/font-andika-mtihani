@@ -3,8 +3,8 @@
   <advance width="1175"/>
   <unicode hex="0160"/>
   <anchor x="580" y="0" name="H"/>
-  <anchor x="580" y="2065" name="U"/>
   <anchor x="580" y="-100" name="L"/>
+  <anchor x="580" y="2065" name="U"/>
   <outline>
     <component base="LtnCapS"/>
     <component base="CombCaron" xOffset="1150" yOffset="430"/>

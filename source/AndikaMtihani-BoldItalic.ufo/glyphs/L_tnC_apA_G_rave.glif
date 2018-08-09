@@ -3,9 +3,9 @@
   <advance width="1465"/>
   <unicode hex="00C0"/>
   <anchor x="1215" y="0" name="H"/>
-  <anchor x="1228" y="2065" name="U"/>
   <anchor x="647" y="-100" name="L"/>
   <anchor x="1435" y="0" name="O"/>
+  <anchor x="1228" y="2065" name="U"/>
   <outline>
     <component base="LtnCapA"/>
     <component base="CombGrave" xOffset="1469" yOffset="430"/>

@@ -4436,8 +4436,6 @@
   <string>Regular</string>
   <key>com.schriftgestaltung.widthValue</key>
   <integer>100</integer>
-  <key>org.sil.glyphsappversion</key>
-  <string>1161</string>
   <key>org.sil.lcg.toneLetters</key>
   <dict>
     <key>contourWidth</key>

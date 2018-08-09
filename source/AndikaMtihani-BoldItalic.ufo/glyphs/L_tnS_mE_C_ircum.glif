@@ -3,10 +3,10 @@
   <advance width="1087"/>
   <unicode hex="00EA"/>
   <anchor x="509" y="0" name="H"/>
-  <anchor x="1320" y="1000" name="R"/>
-  <anchor x="843" y="1635" name="U"/>
   <anchor x="555" y="-100" name="L"/>
   <anchor x="840" y="0" name="O"/>
+  <anchor x="1320" y="1000" name="R"/>
+  <anchor x="843" y="1635" name="U"/>
   <outline>
     <component base="LtnSmE"/>
     <component base="CombCircum" xOffset="1082"/>

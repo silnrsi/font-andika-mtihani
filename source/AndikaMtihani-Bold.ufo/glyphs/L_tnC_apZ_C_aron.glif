@@ -2,8 +2,8 @@
 <glyph name="LtnCapZCaron" format="2">
   <advance width="1250"/>
   <unicode hex="017D"/>
-  <anchor x="635" y="2065" name="U"/>
   <anchor x="635" y="-100" name="L"/>
+  <anchor x="635" y="2065" name="U"/>
   <outline>
     <component base="LtnCapZ"/>
     <component base="CombCaron" xOffset="1223" yOffset="430"/>

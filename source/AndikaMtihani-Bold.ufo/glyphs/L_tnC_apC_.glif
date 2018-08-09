@@ -37,10 +37,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>6</integer>
       <key>public.markColor</key>
-      <string>0,0.67,0.91,1</string>
+      <string>1,0,0,0.502</string>
     </dict>
   </lib>
 </glyph>

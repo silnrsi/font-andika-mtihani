@@ -3,9 +3,9 @@
   <advance width="1465"/>
   <unicode hex="00C5"/>
   <anchor x="1215" y="0" name="H"/>
-  <anchor x="1190" y="2065" name="U"/>
   <anchor x="647" y="-100" name="L"/>
   <anchor x="1435" y="0" name="O"/>
+  <anchor x="1190" y="2065" name="U"/>
   <outline>
     <component base="LtnCapA"/>
     <component base="CombRingAbv" xOffset="1411" yOffset="430"/>

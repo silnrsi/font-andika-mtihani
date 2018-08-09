@@ -4538,7 +4538,7 @@ name = trademark;
 value = "Andika is a trademark of SIL International.";
 }
 );
-date = "2018-07-18 20:24:30 +0000";
+date = "2018-08-09 13:24:07 +0000";
 designer = "Victor Gaultney, Annie Olsen, Julie Remington, Don Collingsworth, Eric Hays, Becca Hirsbrunner";
 designerURL = "http://scripts.sil.org/";
 disablesAutomaticAlignment = 1;
@@ -14631,6 +14631,24 @@ unicode = 007E;
 glyphname = LtnCapADiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{687, -100}";
+},
+{
+name = O;
+position = "{1450, 0}";
+},
+{
+name = U;
+position = "{687, 1935}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -14644,6 +14662,24 @@ layerId = master01;
 width = 1395;
 },
 {
+anchors = (
+{
+name = H;
+position = "{1275, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{1495, 0}";
+},
+{
+name = U;
+position = "{732, 2015}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -14663,6 +14699,24 @@ unicode = 00C4;
 glyphname = LtnCapARingAbv;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{687, -100}";
+},
+{
+name = O;
+position = "{1450, 0}";
+},
+{
+name = U;
+position = "{689, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -14676,6 +14730,24 @@ layerId = master01;
 width = 1395;
 },
 {
+anchors = (
+{
+name = H;
+position = "{1275, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{1495, 0}";
+},
+{
+name = U;
+position = "{734, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -14695,6 +14767,16 @@ unicode = 00C5;
 glyphname = LtnCapCCedilla;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{710, -520}";
+},
+{
+name = U;
+position = "{750, 1530}";
+}
+);
 components = (
 {
 name = LtnCapC;
@@ -14708,6 +14790,16 @@ layerId = master01;
 width = 1355;
 },
 {
+anchors = (
+{
+name = L;
+position = "{715, -530}";
+},
+{
+name = U;
+position = "{745, 1530}";
+}
+);
 components = (
 {
 name = LtnCapC;
@@ -14727,6 +14819,28 @@ unicode = 00C7;
 glyphname = LtnCapEAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{600, 0}";
+},
+{
+name = L;
+position = "{600, -100}";
+},
+{
+name = O;
+position = "{917, 0}";
+},
+{
+name = R;
+position = "{1160, 1200}";
+},
+{
+name = U;
+position = "{600, 2065}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -14740,6 +14854,28 @@ layerId = master01;
 width = 1160;
 },
 {
+anchors = (
+{
+name = H;
+position = "{610, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1004, 0}";
+},
+{
+name = R;
+position = "{1247, 1200}";
+},
+{
+name = U;
+position = "{550, 2065}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -14759,6 +14895,20 @@ unicode = 00C9;
 glyphname = LtnCapNTilde;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{1230, 0}";
+},
+{
+name = L;
+position = "{737, -100}";
+},
+{
+name = U;
+position = "{737, 1905}";
+}
+);
 components = (
 {
 name = LtnCapN;
@@ -14772,6 +14922,20 @@ layerId = master01;
 width = 1500;
 },
 {
+anchors = (
+{
+name = H;
+position = "{1240, 0}";
+},
+{
+name = L;
+position = "{765, -100}";
+},
+{
+name = U;
+position = "{765, 1920}";
+}
+);
 components = (
 {
 name = LtnCapN;
@@ -14791,6 +14955,28 @@ unicode = 00D1;
 glyphname = LtnCapODiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{717, 0}";
+},
+{
+name = L;
+position = "{717, -100}";
+},
+{
+name = O;
+position = "{994, 0}";
+},
+{
+name = R;
+position = "{1460, 1200}";
+},
+{
+name = U;
+position = "{717, 1935}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -14804,6 +14990,28 @@ layerId = master01;
 width = 1460;
 },
 {
+anchors = (
+{
+name = H;
+position = "{740, 0}";
+},
+{
+name = L;
+position = "{740, -100}";
+},
+{
+name = O;
+position = "{976, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{740, 2015}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -14823,6 +15031,28 @@ unicode = 00D6;
 glyphname = LtnCapUDiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{707, -100}";
+},
+{
+name = O;
+position = "{1026, 0}";
+},
+{
+name = R;
+position = "{1400, 1200}";
+},
+{
+name = U;
+position = "{707, 1935}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -14836,6 +15066,28 @@ layerId = master01;
 width = 1440;
 },
 {
+anchors = (
+{
+name = H;
+position = "{732, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{950, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{732, 2015}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -14855,6 +15107,28 @@ unicode = 00DC;
 glyphname = LtnSmAAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{540, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = O;
+position = "{1125, 0}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{540, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14868,6 +15142,28 @@ layerId = master01;
 width = 1120;
 },
 {
+anchors = (
+{
+name = H;
+position = "{985, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1185, 0}";
+},
+{
+name = R;
+position = "{1145, 1000}";
+},
+{
+name = U;
+position = "{550, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14887,6 +15183,28 @@ unicode = 00E1;
 glyphname = LtnSmAGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{540, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = O;
+position = "{1125, 0}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{540, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14900,6 +15218,28 @@ layerId = master01;
 width = 1120;
 },
 {
+anchors = (
+{
+name = H;
+position = "{985, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1185, 0}";
+},
+{
+name = R;
+position = "{1145, 1000}";
+},
+{
+name = U;
+position = "{650, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14919,6 +15259,28 @@ unicode = 00E0;
 glyphname = LtnSmACircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{540, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = O;
+position = "{1125, 0}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{540, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14932,6 +15294,28 @@ layerId = master01;
 width = 1120;
 },
 {
+anchors = (
+{
+name = H;
+position = "{985, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1185, 0}";
+},
+{
+name = R;
+position = "{1145, 1000}";
+},
+{
+name = U;
+position = "{602, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14951,6 +15335,28 @@ unicode = 00E2;
 glyphname = LtnSmADiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{540, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = O;
+position = "{1125, 0}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{540, 1505}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14964,6 +15370,28 @@ layerId = master01;
 width = 1120;
 },
 {
+anchors = (
+{
+name = H;
+position = "{985, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1185, 0}";
+},
+{
+name = R;
+position = "{1145, 1000}";
+},
+{
+name = U;
+position = "{610, 1585}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14983,6 +15411,28 @@ unicode = 00E4;
 glyphname = LtnSmATilde;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{540, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = O;
+position = "{1125, 0}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{540, 1475}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -14996,6 +15446,28 @@ layerId = master01;
 width = 1120;
 },
 {
+anchors = (
+{
+name = H;
+position = "{985, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1185, 0}";
+},
+{
+name = R;
+position = "{1145, 1000}";
+},
+{
+name = U;
+position = "{610, 1490}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -15015,6 +15487,28 @@ unicode = 00E3;
 glyphname = LtnSmARingAbv;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{540, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = O;
+position = "{1125, 0}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{542, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -15028,6 +15522,28 @@ layerId = master01;
 width = 1120;
 },
 {
+anchors = (
+{
+name = H;
+position = "{985, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1185, 0}";
+},
+{
+name = R;
+position = "{1145, 1000}";
+},
+{
+name = U;
+position = "{612, 1635}";
+}
+);
 components = (
 {
 name = LtnSmA;
@@ -15047,6 +15563,20 @@ unicode = 00E5;
 glyphname = LtnSmCCedilla;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{540, -520}";
+},
+{
+name = R;
+position = "{1020, 1000}";
+},
+{
+name = U;
+position = "{570, 1100}";
+}
+);
 components = (
 {
 name = LtnSmC;
@@ -15060,6 +15590,20 @@ layerId = master01;
 width = 1020;
 },
 {
+anchors = (
+{
+name = L;
+position = "{525, -530}";
+},
+{
+name = R;
+position = "{1020, 1000}";
+},
+{
+name = U;
+position = "{575, 1100}";
+}
+);
 components = (
 {
 name = LtnSmC;
@@ -15079,6 +15623,28 @@ unicode = 00E7;
 glyphname = LtnSmEAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{545, 0}";
+},
+{
+name = L;
+position = "{569, -100}";
+},
+{
+name = O;
+position = "{925, 0}";
+},
+{
+name = R;
+position = "{1095, 1000}";
+},
+{
+name = U;
+position = "{569, 1635}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15092,6 +15658,28 @@ layerId = master01;
 width = 1095;
 },
 {
+anchors = (
+{
+name = H;
+position = "{569, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{900, 0}";
+},
+{
+name = R;
+position = "{1130, 1000}";
+},
+{
+name = U;
+position = "{477, 1635}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15111,6 +15699,28 @@ unicode = 00E9;
 glyphname = LtnSmEGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{545, 0}";
+},
+{
+name = L;
+position = "{569, -100}";
+},
+{
+name = O;
+position = "{925, 0}";
+},
+{
+name = R;
+position = "{1095, 1000}";
+},
+{
+name = U;
+position = "{569, 1635}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15124,6 +15734,28 @@ layerId = master01;
 width = 1095;
 },
 {
+anchors = (
+{
+name = H;
+position = "{569, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{900, 0}";
+},
+{
+name = R;
+position = "{1130, 1000}";
+},
+{
+name = U;
+position = "{577, 1635}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15143,6 +15775,28 @@ unicode = 00E8;
 glyphname = LtnSmECircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{545, 0}";
+},
+{
+name = L;
+position = "{569, -100}";
+},
+{
+name = O;
+position = "{925, 0}";
+},
+{
+name = R;
+position = "{1095, 1000}";
+},
+{
+name = U;
+position = "{569, 1635}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15156,6 +15810,28 @@ layerId = master01;
 width = 1095;
 },
 {
+anchors = (
+{
+name = H;
+position = "{569, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{900, 0}";
+},
+{
+name = R;
+position = "{1130, 1000}";
+},
+{
+name = U;
+position = "{529, 1635}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15175,6 +15851,28 @@ unicode = 00EA;
 glyphname = LtnSmEDiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{545, 0}";
+},
+{
+name = L;
+position = "{569, -100}";
+},
+{
+name = O;
+position = "{925, 0}";
+},
+{
+name = R;
+position = "{1095, 1000}";
+},
+{
+name = U;
+position = "{569, 1505}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15188,6 +15886,28 @@ layerId = master01;
 width = 1095;
 },
 {
+anchors = (
+{
+name = H;
+position = "{569, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{900, 0}";
+},
+{
+name = R;
+position = "{1130, 1000}";
+},
+{
+name = U;
+position = "{537, 1585}";
+}
+);
 components = (
 {
 name = LtnSmE;
@@ -15207,6 +15927,28 @@ unicode = 00EB;
 glyphname = LtnSmIAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{285, 0}";
+},
+{
+name = L;
+position = "{285, -100}";
+},
+{
+name = O;
+position = "{520, 0}";
+},
+{
+name = R;
+position = "{550, 1000}";
+},
+{
+name = U;
+position = "{285, 1635}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15220,6 +15962,28 @@ layerId = master01;
 width = 565;
 },
 {
+anchors = (
+{
+name = H;
+position = "{320, 0}";
+},
+{
+name = L;
+position = "{320, -100}";
+},
+{
+name = O;
+position = "{580, 0}";
+},
+{
+name = R;
+position = "{640, 1000}";
+},
+{
+name = U;
+position = "{260, 1635}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15239,6 +16003,28 @@ unicode = 00ED;
 glyphname = LtnSmIGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{285, 0}";
+},
+{
+name = L;
+position = "{285, -100}";
+},
+{
+name = O;
+position = "{520, 0}";
+},
+{
+name = R;
+position = "{550, 1000}";
+},
+{
+name = U;
+position = "{285, 1635}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15252,6 +16038,28 @@ layerId = master01;
 width = 565;
 },
 {
+anchors = (
+{
+name = H;
+position = "{320, 0}";
+},
+{
+name = L;
+position = "{320, -100}";
+},
+{
+name = O;
+position = "{580, 0}";
+},
+{
+name = R;
+position = "{640, 1000}";
+},
+{
+name = U;
+position = "{360, 1635}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15271,6 +16079,28 @@ unicode = 00EC;
 glyphname = LtnSmICircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{285, 0}";
+},
+{
+name = L;
+position = "{285, -100}";
+},
+{
+name = O;
+position = "{520, 0}";
+},
+{
+name = R;
+position = "{550, 1000}";
+},
+{
+name = U;
+position = "{285, 1635}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15284,6 +16114,28 @@ layerId = master01;
 width = 565;
 },
 {
+anchors = (
+{
+name = H;
+position = "{320, 0}";
+},
+{
+name = L;
+position = "{320, -100}";
+},
+{
+name = O;
+position = "{580, 0}";
+},
+{
+name = R;
+position = "{640, 1000}";
+},
+{
+name = U;
+position = "{312, 1635}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15303,6 +16155,28 @@ unicode = 00EE;
 glyphname = LtnSmIDiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{285, 0}";
+},
+{
+name = L;
+position = "{285, -100}";
+},
+{
+name = O;
+position = "{520, 0}";
+},
+{
+name = R;
+position = "{550, 1000}";
+},
+{
+name = U;
+position = "{285, 1505}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15316,6 +16190,28 @@ layerId = master01;
 width = 565;
 },
 {
+anchors = (
+{
+name = H;
+position = "{320, 0}";
+},
+{
+name = L;
+position = "{320, -100}";
+},
+{
+name = O;
+position = "{580, 0}";
+},
+{
+name = R;
+position = "{640, 1000}";
+},
+{
+name = U;
+position = "{320, 1585}";
+}
+);
 components = (
 {
 name = LtnSmDotlessI;
@@ -15335,6 +16231,20 @@ unicode = 00EF;
 glyphname = LtnSmNTilde;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{970, 0}";
+},
+{
+name = L;
+position = "{600, -100}";
+},
+{
+name = U;
+position = "{600, 1475}";
+}
+);
 components = (
 {
 name = LtnSmN;
@@ -15348,6 +16258,20 @@ layerId = master01;
 width = 1185;
 },
 {
+anchors = (
+{
+name = H;
+position = "{620, 0}";
+},
+{
+name = L;
+position = "{620, -100}";
+},
+{
+name = U;
+position = "{620, 1490}";
+}
+);
 components = (
 {
 name = LtnSmN;
@@ -15367,6 +16291,28 @@ unicode = 00F1;
 glyphname = LtnSmOAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{570, 0}";
+},
+{
+name = L;
+position = "{570, -100}";
+},
+{
+name = O;
+position = "{835, 0}";
+},
+{
+name = R;
+position = "{1140, 1000}";
+},
+{
+name = U;
+position = "{570, 1635}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15380,6 +16326,28 @@ layerId = master01;
 width = 1140;
 },
 {
+anchors = (
+{
+name = H;
+position = "{578, 0}";
+},
+{
+name = L;
+position = "{580, -100}";
+},
+{
+name = O;
+position = "{790, 0}";
+},
+{
+name = R;
+position = "{1160, 1000}";
+},
+{
+name = U;
+position = "{520, 1635}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15399,6 +16367,28 @@ unicode = 00F3;
 glyphname = LtnSmOGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{570, 0}";
+},
+{
+name = L;
+position = "{570, -100}";
+},
+{
+name = O;
+position = "{835, 0}";
+},
+{
+name = R;
+position = "{1140, 1000}";
+},
+{
+name = U;
+position = "{570, 1635}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15412,6 +16402,28 @@ layerId = master01;
 width = 1140;
 },
 {
+anchors = (
+{
+name = H;
+position = "{578, 0}";
+},
+{
+name = L;
+position = "{580, -100}";
+},
+{
+name = O;
+position = "{790, 0}";
+},
+{
+name = R;
+position = "{1160, 1000}";
+},
+{
+name = U;
+position = "{620, 1635}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15431,6 +16443,28 @@ unicode = 00F2;
 glyphname = LtnSmOCircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{570, 0}";
+},
+{
+name = L;
+position = "{570, -100}";
+},
+{
+name = O;
+position = "{835, 0}";
+},
+{
+name = R;
+position = "{1140, 1000}";
+},
+{
+name = U;
+position = "{570, 1635}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15444,6 +16478,28 @@ layerId = master01;
 width = 1140;
 },
 {
+anchors = (
+{
+name = H;
+position = "{578, 0}";
+},
+{
+name = L;
+position = "{580, -100}";
+},
+{
+name = O;
+position = "{790, 0}";
+},
+{
+name = R;
+position = "{1160, 1000}";
+},
+{
+name = U;
+position = "{572, 1635}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15463,6 +16519,28 @@ unicode = 00F4;
 glyphname = LtnSmODiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{570, 0}";
+},
+{
+name = L;
+position = "{570, -100}";
+},
+{
+name = O;
+position = "{835, 0}";
+},
+{
+name = R;
+position = "{1140, 1000}";
+},
+{
+name = U;
+position = "{570, 1505}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15476,6 +16554,28 @@ layerId = master01;
 width = 1140;
 },
 {
+anchors = (
+{
+name = H;
+position = "{578, 0}";
+},
+{
+name = L;
+position = "{580, -100}";
+},
+{
+name = O;
+position = "{790, 0}";
+},
+{
+name = R;
+position = "{1160, 1000}";
+},
+{
+name = U;
+position = "{580, 1585}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15495,6 +16595,28 @@ unicode = 00F6;
 glyphname = LtnSmOTilde;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{570, 0}";
+},
+{
+name = L;
+position = "{570, -100}";
+},
+{
+name = O;
+position = "{835, 0}";
+},
+{
+name = R;
+position = "{1140, 1000}";
+},
+{
+name = U;
+position = "{570, 1475}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15508,6 +16630,28 @@ layerId = master01;
 width = 1140;
 },
 {
+anchors = (
+{
+name = H;
+position = "{578, 0}";
+},
+{
+name = L;
+position = "{580, -100}";
+},
+{
+name = O;
+position = "{790, 0}";
+},
+{
+name = R;
+position = "{1160, 1000}";
+},
+{
+name = U;
+position = "{580, 1490}";
+}
+);
 components = (
 {
 name = LtnSmO;
@@ -15527,6 +16671,28 @@ unicode = 00F5;
 glyphname = LtnSmUAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{589, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{1192, 0}";
+},
+{
+name = R;
+position = "{1185, 1000}";
+},
+{
+name = U;
+position = "{589, 1635}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -15540,6 +16706,28 @@ layerId = master01;
 width = 1185;
 },
 {
+anchors = (
+{
+name = H;
+position = "{515, 0}";
+},
+{
+name = L;
+position = "{615, -100}";
+},
+{
+name = O;
+position = "{690, 0}";
+},
+{
+name = R;
+position = "{1258, 1000}";
+},
+{
+name = U;
+position = "{555, 1635}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -15559,6 +16747,28 @@ unicode = 00FA;
 glyphname = LtnSmUGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{589, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{1192, 0}";
+},
+{
+name = R;
+position = "{1185, 1000}";
+},
+{
+name = U;
+position = "{589, 1635}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -15572,6 +16782,28 @@ layerId = master01;
 width = 1185;
 },
 {
+anchors = (
+{
+name = H;
+position = "{515, 0}";
+},
+{
+name = L;
+position = "{615, -100}";
+},
+{
+name = O;
+position = "{690, 0}";
+},
+{
+name = R;
+position = "{1258, 1000}";
+},
+{
+name = U;
+position = "{655, 1635}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -15591,6 +16823,28 @@ unicode = 00F9;
 glyphname = LtnSmUCircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{589, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{1192, 0}";
+},
+{
+name = R;
+position = "{1185, 1000}";
+},
+{
+name = U;
+position = "{589, 1635}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -15604,6 +16858,28 @@ layerId = master01;
 width = 1185;
 },
 {
+anchors = (
+{
+name = H;
+position = "{515, 0}";
+},
+{
+name = L;
+position = "{615, -100}";
+},
+{
+name = O;
+position = "{690, 0}";
+},
+{
+name = R;
+position = "{1258, 1000}";
+},
+{
+name = U;
+position = "{607, 1635}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -15623,6 +16899,28 @@ unicode = 00FB;
 glyphname = LtnSmUDiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{589, 0}";
+},
+{
+name = L;
+position = "{589, -100}";
+},
+{
+name = O;
+position = "{1192, 0}";
+},
+{
+name = R;
+position = "{1185, 1000}";
+},
+{
+name = U;
+position = "{589, 1505}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -15636,6 +16934,28 @@ layerId = master01;
 width = 1185;
 },
 {
+anchors = (
+{
+name = H;
+position = "{515, 0}";
+},
+{
+name = L;
+position = "{615, -100}";
+},
+{
+name = O;
+position = "{690, 0}";
+},
+{
+name = R;
+position = "{1258, 1000}";
+},
+{
+name = U;
+position = "{615, 1585}";
+}
+);
 components = (
 {
 name = LtnSmU;
@@ -18012,6 +19332,16 @@ unicode = 2202;
 glyphname = NArySummation;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{605, -100}";
+},
+{
+name = U;
+position = "{605, 1530}";
+}
+);
 components = (
 {
 name = LtnCapEsh;
@@ -18021,6 +19351,16 @@ layerId = master01;
 width = 1230;
 },
 {
+anchors = (
+{
+name = L;
+position = "{590, -100}";
+},
+{
+name = U;
+position = "{590, 1530}";
+}
+);
 components = (
 {
 name = LtnCapEsh;
@@ -19740,6 +21080,24 @@ unicode = 00A0;
 glyphname = LtnCapAGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{687, -100}";
+},
+{
+name = O;
+position = "{1450, 0}";
+},
+{
+name = U;
+position = "{687, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -19753,6 +21111,24 @@ layerId = master01;
 width = 1395;
 },
 {
+anchors = (
+{
+name = H;
+position = "{1275, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{1495, 0}";
+},
+{
+name = U;
+position = "{772, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -19772,6 +21148,24 @@ unicode = 00C0;
 glyphname = LtnCapATilde;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{687, -100}";
+},
+{
+name = O;
+position = "{1450, 0}";
+},
+{
+name = U;
+position = "{687, 1905}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -19785,6 +21179,24 @@ layerId = master01;
 width = 1395;
 },
 {
+anchors = (
+{
+name = H;
+position = "{1275, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{1495, 0}";
+},
+{
+name = U;
+position = "{732, 1920}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -19804,6 +21216,28 @@ unicode = 00C3;
 glyphname = LtnCapOTilde;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{717, 0}";
+},
+{
+name = L;
+position = "{717, -100}";
+},
+{
+name = O;
+position = "{994, 0}";
+},
+{
+name = R;
+position = "{1460, 1200}";
+},
+{
+name = U;
+position = "{717, 1905}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -19817,6 +21251,28 @@ layerId = master01;
 width = 1460;
 },
 {
+anchors = (
+{
+name = H;
+position = "{740, 0}";
+},
+{
+name = L;
+position = "{740, -100}";
+},
+{
+name = O;
+position = "{976, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{740, 1920}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -20720,6 +22176,20 @@ unicode = 25CA;
 glyphname = LtnSmYDiaer;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{795, -100}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{535, 1505}";
+}
+);
 components = (
 {
 name = LtnSmY;
@@ -20733,6 +22203,20 @@ layerId = master01;
 width = 1060;
 },
 {
+anchors = (
+{
+name = L;
+position = "{845, -100}";
+},
+{
+name = R;
+position = "{1155, 1000}";
+},
+{
+name = U;
+position = "{565, 1585}";
+}
+);
 components = (
 {
 name = LtnSmY;
@@ -20752,6 +22236,16 @@ unicode = 00FF;
 glyphname = LtnCapYDiaer;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{650, -100}";
+},
+{
+name = U;
+position = "{650, 1935}";
+}
+);
 components = (
 {
 name = LtnCapY;
@@ -20765,6 +22259,16 @@ layerId = master01;
 width = 1320;
 },
 {
+anchors = (
+{
+name = L;
+position = "{672, -100}";
+},
+{
+name = U;
+position = "{672, 2015}";
+}
+);
 components = (
 {
 name = LtnCapY;
@@ -21904,6 +23408,24 @@ unicode = 2030;
 glyphname = LtnCapACircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{687, -100}";
+},
+{
+name = O;
+position = "{1450, 0}";
+},
+{
+name = U;
+position = "{687, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -21917,6 +23439,24 @@ layerId = master01;
 width = 1395;
 },
 {
+anchors = (
+{
+name = H;
+position = "{1275, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{1495, 0}";
+},
+{
+name = U;
+position = "{724, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -21936,6 +23476,28 @@ unicode = 00C2;
 glyphname = LtnCapECircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{600, 0}";
+},
+{
+name = L;
+position = "{600, -100}";
+},
+{
+name = O;
+position = "{917, 0}";
+},
+{
+name = R;
+position = "{1160, 1200}";
+},
+{
+name = U;
+position = "{600, 2065}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -21949,6 +23511,28 @@ layerId = master01;
 width = 1160;
 },
 {
+anchors = (
+{
+name = H;
+position = "{610, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1004, 0}";
+},
+{
+name = R;
+position = "{1247, 1200}";
+},
+{
+name = U;
+position = "{602, 2065}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -21968,6 +23552,24 @@ unicode = 00CA;
 glyphname = LtnCapAAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{687, -100}";
+},
+{
+name = O;
+position = "{1450, 0}";
+},
+{
+name = U;
+position = "{687, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -21981,6 +23583,24 @@ layerId = master01;
 width = 1395;
 },
 {
+anchors = (
+{
+name = H;
+position = "{1275, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{1495, 0}";
+},
+{
+name = U;
+position = "{672, 2065}";
+}
+);
 components = (
 {
 name = LtnCapA;
@@ -22000,6 +23620,28 @@ unicode = 00C1;
 glyphname = LtnCapEDiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{600, 0}";
+},
+{
+name = L;
+position = "{600, -100}";
+},
+{
+name = O;
+position = "{917, 0}";
+},
+{
+name = R;
+position = "{1160, 1200}";
+},
+{
+name = U;
+position = "{600, 1935}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -22013,6 +23655,28 @@ layerId = master01;
 width = 1160;
 },
 {
+anchors = (
+{
+name = H;
+position = "{610, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1004, 0}";
+},
+{
+name = R;
+position = "{1247, 1200}";
+},
+{
+name = U;
+position = "{610, 2015}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -22032,6 +23696,28 @@ unicode = 00CB;
 glyphname = LtnCapEGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{600, 0}";
+},
+{
+name = L;
+position = "{600, -100}";
+},
+{
+name = O;
+position = "{917, 0}";
+},
+{
+name = R;
+position = "{1160, 1200}";
+},
+{
+name = U;
+position = "{600, 2065}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -22045,6 +23731,28 @@ layerId = master01;
 width = 1160;
 },
 {
+anchors = (
+{
+name = H;
+position = "{610, 0}";
+},
+{
+name = L;
+position = "{610, -100}";
+},
+{
+name = O;
+position = "{1004, 0}";
+},
+{
+name = R;
+position = "{1247, 1200}";
+},
+{
+name = U;
+position = "{650, 2065}";
+}
+);
 components = (
 {
 name = LtnCapE;
@@ -22064,6 +23772,28 @@ unicode = 00C8;
 glyphname = LtnCapIAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{477, 0}";
+},
+{
+name = L;
+position = "{477, -100}";
+},
+{
+name = O;
+position = "{673, 0}";
+},
+{
+name = R;
+position = "{975, 1200}";
+},
+{
+name = U;
+position = "{477, 2065}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22077,6 +23807,28 @@ layerId = master01;
 width = 975;
 },
 {
+anchors = (
+{
+name = H;
+position = "{520, 0}";
+},
+{
+name = L;
+position = "{516, -100}";
+},
+{
+name = O;
+position = "{712, 0}";
+},
+{
+name = R;
+position = "{1014, 1200}";
+},
+{
+name = U;
+position = "{460, 2065}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22096,6 +23848,28 @@ unicode = 00CD;
 glyphname = LtnCapICircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{477, 0}";
+},
+{
+name = L;
+position = "{477, -100}";
+},
+{
+name = O;
+position = "{673, 0}";
+},
+{
+name = R;
+position = "{975, 1200}";
+},
+{
+name = U;
+position = "{477, 2065}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22109,6 +23883,28 @@ layerId = master01;
 width = 975;
 },
 {
+anchors = (
+{
+name = H;
+position = "{520, 0}";
+},
+{
+name = L;
+position = "{516, -100}";
+},
+{
+name = O;
+position = "{712, 0}";
+},
+{
+name = R;
+position = "{1014, 1200}";
+},
+{
+name = U;
+position = "{512, 2065}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22128,6 +23924,28 @@ unicode = 00CE;
 glyphname = LtnCapIDiaer;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{477, 0}";
+},
+{
+name = L;
+position = "{477, -100}";
+},
+{
+name = O;
+position = "{673, 0}";
+},
+{
+name = R;
+position = "{975, 1200}";
+},
+{
+name = U;
+position = "{477, 1935}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22141,6 +23959,28 @@ layerId = master01;
 width = 975;
 },
 {
+anchors = (
+{
+name = H;
+position = "{520, 0}";
+},
+{
+name = L;
+position = "{516, -100}";
+},
+{
+name = O;
+position = "{712, 0}";
+},
+{
+name = R;
+position = "{1014, 1200}";
+},
+{
+name = U;
+position = "{520, 2015}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22160,6 +24000,28 @@ unicode = 00CF;
 glyphname = LtnCapIGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{477, 0}";
+},
+{
+name = L;
+position = "{477, -100}";
+},
+{
+name = O;
+position = "{673, 0}";
+},
+{
+name = R;
+position = "{975, 1200}";
+},
+{
+name = U;
+position = "{477, 2065}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22173,6 +24035,28 @@ layerId = master01;
 width = 975;
 },
 {
+anchors = (
+{
+name = H;
+position = "{520, 0}";
+},
+{
+name = L;
+position = "{516, -100}";
+},
+{
+name = O;
+position = "{712, 0}";
+},
+{
+name = R;
+position = "{1014, 1200}";
+},
+{
+name = U;
+position = "{560, 2065}";
+}
+);
 components = (
 {
 name = LtnCapI;
@@ -22192,6 +24076,28 @@ unicode = 00CC;
 glyphname = LtnCapOAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{717, 0}";
+},
+{
+name = L;
+position = "{717, -100}";
+},
+{
+name = O;
+position = "{994, 0}";
+},
+{
+name = R;
+position = "{1460, 1200}";
+},
+{
+name = U;
+position = "{717, 2065}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -22205,6 +24111,28 @@ layerId = master01;
 width = 1460;
 },
 {
+anchors = (
+{
+name = H;
+position = "{740, 0}";
+},
+{
+name = L;
+position = "{740, -100}";
+},
+{
+name = O;
+position = "{976, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{680, 2065}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -22224,6 +24152,28 @@ unicode = 00D3;
 glyphname = LtnCapOCircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{717, 0}";
+},
+{
+name = L;
+position = "{717, -100}";
+},
+{
+name = O;
+position = "{994, 0}";
+},
+{
+name = R;
+position = "{1460, 1200}";
+},
+{
+name = U;
+position = "{717, 2065}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -22237,6 +24187,28 @@ layerId = master01;
 width = 1460;
 },
 {
+anchors = (
+{
+name = H;
+position = "{740, 0}";
+},
+{
+name = L;
+position = "{740, -100}";
+},
+{
+name = O;
+position = "{976, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{732, 2065}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -22854,6 +24826,28 @@ unicode = 25CC;
 glyphname = LtnCapOGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{717, 0}";
+},
+{
+name = L;
+position = "{717, -100}";
+},
+{
+name = O;
+position = "{994, 0}";
+},
+{
+name = R;
+position = "{1460, 1200}";
+},
+{
+name = U;
+position = "{717, 2065}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -22867,6 +24861,28 @@ layerId = master01;
 width = 1460;
 },
 {
+anchors = (
+{
+name = H;
+position = "{740, 0}";
+},
+{
+name = L;
+position = "{740, -100}";
+},
+{
+name = O;
+position = "{976, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{780, 2065}";
+}
+);
 components = (
 {
 name = LtnCapO;
@@ -22886,6 +24902,28 @@ unicode = 00D2;
 glyphname = LtnCapUAcute;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{707, -100}";
+},
+{
+name = O;
+position = "{1026, 0}";
+},
+{
+name = R;
+position = "{1400, 1200}";
+},
+{
+name = U;
+position = "{707, 2065}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -22899,6 +24937,28 @@ layerId = master01;
 width = 1440;
 },
 {
+anchors = (
+{
+name = H;
+position = "{732, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{950, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{672, 2065}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -22918,6 +24978,28 @@ unicode = 00DA;
 glyphname = LtnCapUCircum;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{707, -100}";
+},
+{
+name = O;
+position = "{1026, 0}";
+},
+{
+name = R;
+position = "{1400, 1200}";
+},
+{
+name = U;
+position = "{707, 2065}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -22931,6 +25013,28 @@ layerId = master01;
 width = 1440;
 },
 {
+anchors = (
+{
+name = H;
+position = "{732, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{950, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{724, 2065}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -22950,6 +25054,28 @@ unicode = 00DB;
 glyphname = LtnCapUGrave;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{707, 0}";
+},
+{
+name = L;
+position = "{707, -100}";
+},
+{
+name = O;
+position = "{1026, 0}";
+},
+{
+name = R;
+position = "{1400, 1200}";
+},
+{
+name = U;
+position = "{707, 2065}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -22963,6 +25089,28 @@ layerId = master01;
 width = 1440;
 },
 {
+anchors = (
+{
+name = H;
+position = "{732, 0}";
+},
+{
+name = L;
+position = "{732, -100}";
+},
+{
+name = O;
+position = "{950, 0}";
+},
+{
+name = R;
+position = "{1480, 1200}";
+},
+{
+name = U;
+position = "{772, 2065}";
+}
+);
 components = (
 {
 name = LtnCapU;
@@ -24678,6 +26826,20 @@ unicode = 00DE;
 glyphname = LtnSmSCaron;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{495, 0}";
+},
+{
+name = L;
+position = "{495, -100}";
+},
+{
+name = U;
+position = "{495, 1635}";
+}
+);
 components = (
 {
 name = LtnSmS;
@@ -24691,6 +26853,20 @@ layerId = master01;
 width = 965;
 },
 {
+anchors = (
+{
+name = H;
+position = "{515, 0}";
+},
+{
+name = L;
+position = "{515, -100}";
+},
+{
+name = U;
+position = "{530, 1635}";
+}
+);
 components = (
 {
 name = LtnSmS;
@@ -24710,6 +26886,20 @@ unicode = 0161;
 glyphname = LtnCapSCaron;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{580, 0}";
+},
+{
+name = L;
+position = "{580, -100}";
+},
+{
+name = U;
+position = "{580, 2065}";
+}
+);
 components = (
 {
 name = LtnCapS;
@@ -24723,6 +26913,20 @@ layerId = master01;
 width = 1175;
 },
 {
+anchors = (
+{
+name = H;
+position = "{616, 0}";
+},
+{
+name = L;
+position = "{616, -100}";
+},
+{
+name = U;
+position = "{616, 2065}";
+}
+);
 components = (
 {
 name = LtnCapS;
@@ -24742,6 +26946,20 @@ unicode = 0160;
 glyphname = LtnSmYAcute;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{795, -100}";
+},
+{
+name = R;
+position = "{1120, 1000}";
+},
+{
+name = U;
+position = "{535, 1635}";
+}
+);
 components = (
 {
 name = LtnSmY;
@@ -24755,6 +26973,20 @@ layerId = master01;
 width = 1060;
 },
 {
+anchors = (
+{
+name = L;
+position = "{845, -100}";
+},
+{
+name = R;
+position = "{1155, 1000}";
+},
+{
+name = U;
+position = "{505, 1635}";
+}
+);
 components = (
 {
 name = LtnSmY;
@@ -24774,6 +27006,16 @@ unicode = 00FD;
 glyphname = LtnCapYAcute;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{650, -100}";
+},
+{
+name = U;
+position = "{650, 2065}";
+}
+);
 components = (
 {
 name = LtnCapY;
@@ -24787,6 +27029,16 @@ layerId = master01;
 width = 1320;
 },
 {
+anchors = (
+{
+name = L;
+position = "{672, -100}";
+},
+{
+name = U;
+position = "{612, 2065}";
+}
+);
 components = (
 {
 name = LtnCapY;
@@ -24806,6 +27058,20 @@ unicode = 00DD;
 glyphname = LtnSmZCaron;
 layers = (
 {
+anchors = (
+{
+name = H;
+position = "{525, 0}";
+},
+{
+name = L;
+position = "{525, -100}";
+},
+{
+name = U;
+position = "{525, 1635}";
+}
+);
 components = (
 {
 name = LtnSmZ;
@@ -24819,6 +27085,20 @@ layerId = master01;
 width = 1040;
 },
 {
+anchors = (
+{
+name = H;
+position = "{540, 0}";
+},
+{
+name = L;
+position = "{540, -100}";
+},
+{
+name = U;
+position = "{540, 1635}";
+}
+);
 components = (
 {
 name = LtnSmZ;
@@ -24838,6 +27118,16 @@ unicode = 017E;
 glyphname = LtnCapZCaron;
 layers = (
 {
+anchors = (
+{
+name = L;
+position = "{605, -100}";
+},
+{
+name = U;
+position = "{605, 2065}";
+}
+);
 components = (
 {
 name = LtnCapZ;
@@ -24851,6 +27141,16 @@ layerId = master01;
 width = 1230;
 },
 {
+anchors = (
+{
+name = L;
+position = "{635, -100}";
+},
+{
+name = U;
+position = "{635, 2065}";
+}
+);
 components = (
 {
 name = LtnCapZ;
@@ -25655,6 +27955,12 @@ unicode = 2010;
 glyphname = NonBreakingHyphen;
 layers = (
 {
+anchors = (
+{
+name = U;
+position = "{430, 1100}";
+}
+);
 components = (
 {
 name = HyphenMinus;
@@ -25664,6 +27970,12 @@ layerId = master01;
 width = 860;
 },
 {
+anchors = (
+{
+name = U;
+position = "{450, 1100}";
+}
+);
 components = (
 {
 name = HyphenMinus;
@@ -25679,6 +27991,12 @@ unicode = 2011;
 glyphname = Hyphen_Soft;
 layers = (
 {
+anchors = (
+{
+name = U;
+position = "{430, 1100}";
+}
+);
 components = (
 {
 name = HyphenMinus;
@@ -25688,6 +28006,12 @@ layerId = master01;
 width = 860;
 },
 {
+anchors = (
+{
+name = U;
+position = "{450, 1100}";
+}
+);
 components = (
 {
 name = HyphenMinus;
@@ -26206,6 +28530,16 @@ unicode = 0308;
 glyphname = CombRingAbv;
 layers = (
 {
+anchors = (
+{
+name = U;
+position = "{-570, 1635}";
+},
+{
+name = _U;
+position = "{-572, 1100}";
+}
+);
 components = (
 {
 name = RingAbv;
