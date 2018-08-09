@@ -9,7 +9,7 @@ results/**
 buildlinux2/**
 bin/**
 .venv/
-source/*.log
+*.log
 
 # general backup files
 *~
