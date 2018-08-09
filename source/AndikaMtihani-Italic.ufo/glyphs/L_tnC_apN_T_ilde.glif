@@ -3,8 +3,8 @@
   <advance width="1480"/>
   <unicode hex="00D1"/>
   <anchor x="1170" y="0" name="H"/>
-  <anchor x="652" y="-100" name="L"/>
   <anchor x="1154" y="1905" name="U"/>
+  <anchor x="652" y="-100" name="L"/>
   <outline>
     <component base="LtnCapN"/>
     <component base="CombTilde" xOffset="1444" yOffset="430"/>

@@ -3,10 +3,10 @@
   <advance width="975"/>
   <unicode hex="00CC"/>
   <anchor x="477" y="0" name="H"/>
-  <anchor x="477" y="-100" name="L"/>
-  <anchor x="673" y="0" name="O"/>
   <anchor x="975" y="1200" name="R"/>
   <anchor x="477" y="2065" name="U"/>
+  <anchor x="477" y="-100" name="L"/>
+  <anchor x="673" y="0" name="O"/>
   <outline>
     <component base="LtnCapI"/>
     <component base="CombGrave" xOffset="1027" yOffset="430"/>

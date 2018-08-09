@@ -6,6 +6,12 @@ psfnormalize -p checkfix=fix source/AndikaMtihani-Bold.ufo  -l source/logs/normB
 psfnormalize -p checkfix=fix source/AndikaMtihani-Italic.ufo -l source/logs/normI.log
 psfnormalize -p checkfix=fix source/AndikaMtihani-BoldItalic.ufo -l source/logs/normBI.log
 
+# Building composites - needs to be done after normalization or may complain due to bad anchor coordinates
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-Regular.ufo -l source/logs/compsR.log
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-Bold.ufo -l source/logs/compsB.log
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-Italic.ufo -l source/logs/compsI.log
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-BoldItalic.ufo -l source/logs/compsBI.log
+
 psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/psnames.log
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log
 
