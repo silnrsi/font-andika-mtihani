@@ -15,6 +15,7 @@ compreffor = "*"
 booleanoperations = "*"
 mutatorMath = "*"
 fontParts = "*"
+pysilfont = {git = "https://github.com/silnrsi/pysilfont.git", ref = "v1.3.0"}
 
 [dev-packages]
 pytest = "*"
