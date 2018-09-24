@@ -2,7 +2,7 @@
 <!-- https://www.freedesktop.org/software/appstream/docs/sect-Metadata-Fonts.html -->
 
 <component type="font">
-  <id>org.scripts.sil.font-andika-mtihani</id>
+  <id>org.sil.font-andika-mtihani</id>
   <developer_name> SIL International </developer_name>
   <metadata_license>MIT</metadata_license>
   <project_group>SIL</project_group>
