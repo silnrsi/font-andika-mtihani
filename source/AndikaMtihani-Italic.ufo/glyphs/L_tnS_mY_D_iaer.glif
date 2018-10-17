@@ -2,9 +2,9 @@
 <glyph name="LtnSmYDiaer" format="2">
   <advance width="976"/>
   <unicode hex="00FF"/>
+  <anchor x="710" y="-100" name="L"/>
   <anchor x="1270" y="1000" name="R"/>
   <anchor x="727" y="1505" name="U"/>
-  <anchor x="710" y="-100" name="L"/>
   <outline>
     <component base="LtnSmY"/>
     <component base="CombDiaer" xOffset="980"/>
