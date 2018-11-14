@@ -5,17 +5,18 @@ name = "pypi"
 
 [packages]
 fontTools = "*"
-lz4 = "*"
+lz4 = "==0.10.1"
 ufo2ft = "*"
 defcon = "*"
 ufoLib = "*"
 cu2qu = "*"
-glyphsLib = "==2.4.0"
+glyphsLib = "==3.1.4"
 compreffor = "*"
 booleanoperations = "*"
 mutatorMath = "*"
 fontParts = "*"
-pysilfont = {git = "https://github.com/silnrsi/pysilfont.git", ref = "v1.3.0"}
+fs = "*"
+pysilfont = {git = "https://github.com/silnrsi/pysilfont.git", ref = "v1.4.0"}
 
 [dev-packages]
 pytest = "*"
