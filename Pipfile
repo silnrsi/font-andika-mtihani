@@ -16,10 +16,7 @@ booleanoperations = "*"
 mutatorMath = "*"
 fontParts = "*"
 fs = "*"
-pysilfont = {git = "https://github.com/silnrsi/pysilfont.git", ref = "v1.4.0"}
-
-[dev-packages]
-pytest = "*"
+pysilfont = {git = "https://github.com/silnrsi/pysilfont.git", ref = "v1.4.1.dev0"}
 
 [requires]
 python_version = "2.7"
