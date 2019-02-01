@@ -8,6 +8,7 @@ DESC_SHORT = "Test font for UFO workflows"
 DESC_NAME = "AndikaMtihani"
 
 getufoinfo('source/AndikaMtihani-Regular.ufo')
+BUILDLABEL = "alpha"
 
 testCommand('ttfcheck-gf', cmd='${FONTBAKERY} check-googlefonts -n -C -S --html ${TGT} ${SRC} 1> /dev/null; true', extracmds=["fontbakery"], shapers=0, ext=".html", coverage="fonts", shell=1, fontmode='collect')
 
