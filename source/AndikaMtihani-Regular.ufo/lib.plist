@@ -22,9 +22,12 @@
     </array>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1179</string>
+  <string>1201</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <string/>
+  <array>
+    <string>WAVAE</string>
+    <string>L/RtSglQuotMrk A L/RtSglQuotMrk O</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
