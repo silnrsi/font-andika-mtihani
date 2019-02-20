@@ -1,0 +1,2 @@
+psfufo2glyphs source/AndikaMtihaniRoman.designspace source/AndikaMtihaniRoman.glyphs -l source/logs/ufo2gR.log
+psfufo2glyphs source/AndikaMtihaniItalic.designspace source/AndikaMtihaniItalic.glyphs -l source/logs/ufo2gI.log
