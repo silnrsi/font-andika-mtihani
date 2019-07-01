@@ -13,7 +13,7 @@ psfbuildcomp -i source/composites.txt source/AndikaMtihani-Italic.ufo -l source/
 psfbuildcomp -i source/composites.txt source/AndikaMtihani-BoldItalic.ufo -l source/logs/compsBI.log
 
 psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/psnames.log
-psfsetglyphorder --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log
+psfsetglyphorder --header sort_final -x -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log
 
 # Following sync will copy psnames and glyphorder updates to all fonts
 psfsyncmasters source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace -l source/logs/sync.log
