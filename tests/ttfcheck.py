@@ -6,6 +6,7 @@ from fontbakery.message import Message
 from fontbakery.checkrunner import (DEBUG, PASS, INFO, SKIP, WARN, FAIL, ERROR, Section)
 from fontbakery.fonts_profile import profile_factory # NOQA pylint: disable=unused-import
 
+profile = profile_factory(default_section=Section("SIL Fonts"))
 
 # imports are used to mix in other external profiles
 profile_imports = [
@@ -72,5 +73,33 @@ def has_cap_r_in_name(font):
         # and yield at another point, we always have to
         # use return within this check.
         return PASS, '"R" is in font filename.'
+
+
+
+# skip checks (they still appear)
+def check_skip_filter(checkid, font=None, **iterargs):
+  if checkid in (
+       'com.google.fonts/check/metadata/reserved_font_name'
+      , 'com.google.fonts/check/description/broken_links'
+      , 'com.google.fonts/check/name/rfn'
+  ):
+    return False, ('We do not want or care about these checks')
+  return True, None
+
+profile.check_skip_filter = check_skip_filter
+
+# disable checks
+def check_disable_filter(checkid, font=None, **iterargs):
+  if checkid in (
+       'com.google.fonts/check/metadata/reserved_font_name'
+      , 'com.google.fonts/check/description/broken_links'
+      , 'com.google.fonts/check/name/rfn'
+  ):
+    return False, ('We do not want or care about these checks')
+  return True, None
+
+profile.check_skip_filter = check_skip_filter
+profile.check_disable_filter = check_disable_filter
+profile.auto_register(globals())
 
 
