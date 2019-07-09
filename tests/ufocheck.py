@@ -1,22 +1,20 @@
 # template config file for local testing of ufos with fontbakery.
 
-from fontbakery.callable import check, condition, disable
-from fontbakery.callable import FontBakeryExpectedValue as ExpectedValue
+from fontbakery.callable import condition, check, disable
+from fontbakery.constants import PriorityLevel
 from fontbakery.message import Message
-from fontbakery.specifications import *
-from fontbakery.commands.check_specification import (
-    runner_factory as super_runner_factory, main as super_main)
 from fontbakery.constants import (STYLE_NAMES, PriorityLevel, NameID, PlatformID, WindowsEncodingID)
-from fontbakery.checkrunner import (DEBUG, PASS, INFO, SKIP, WARN, FAIL, ERROR, Section, Spec)
-from fontbakery.fonts_spec import spec_factory  # NOQA pylint: disable=unused-import
+from fontbakery.checkrunner import (DEBUG, PASS, INFO, SKIP, WARN, FAIL, ERROR, Section)
+from fontbakery.fonts_profile import profile_factory # NOQA pylint: disable=unused-import
 
-# spec_imports is used to mix other external specifications
-spec_imports = [
-    ['fontbakery.specifications', ['ufo_sources']]
+
+# imports are used to mix in other external profiles
+profile_imports = [
+    ['fontbakery.profiles', ['ufo_sources']]
 ]
 
 # Our own checks below
-# See https://font-bakery.readthedocs.io/en/latest/developer/writing-specifications.html
+# See https://font-bakery.readthedocs.io/en/latest/developer/writing-profiles.html
 
 # putting this at the top of the file
 # can give a quick overview:
