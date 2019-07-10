@@ -10,5 +10,7 @@ fontbakery check-profile ttfcheck.py ../results/*.ttf --html results/Andika-Mtih
 
 using the ttfcheck smith subcommand as hard-coded in the project wscript:
 smith ttfcheck 
+(you might need to uncomment it for a local test as it's chained to the alltest target and everythin is not in place on the CI yet.
+When conventions are agreed upon with we make a generic smith target).
 
 
