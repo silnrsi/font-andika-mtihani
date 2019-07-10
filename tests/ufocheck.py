@@ -7,6 +7,7 @@ from fontbakery.constants import (STYLE_NAMES, PriorityLevel, NameID, PlatformID
 from fontbakery.checkrunner import (DEBUG, PASS, INFO, SKIP, WARN, FAIL, ERROR, Section)
 from fontbakery.fonts_profile import profile_factory # NOQA pylint: disable=unused-import
 
+profile = profile_factory(default_section=Section("SIL Fonts"))
 
 # imports are used to mix in other external profiles
 profile_imports = [
@@ -19,8 +20,8 @@ profile_imports = [
 # putting this at the top of the file
 # can give a quick overview:
 expected_check_ids = (
-    'org.software.sil/checks/helloworld',
-    'org.software.sil/check/has-R'
+    'org.sil.software/checks/helloworld',
+    'org.sil.software/check/has-R'
 )
 
 
@@ -29,7 +30,7 @@ expected_check_ids = (
 # and mark it as a check.
 # A check id is mandatory and must be globally and timely
 # unique. See "Naming Things: check-ids" below.
-@check(id='org.software.sil/checks/helloworld')
+@check(id='org.sil.software/checks/helloworld')
 # This check will run only once as it has no iterable
 # arguments. Since it has no arguments at all and because
 # checks should be idempotent (and this one is), there's
@@ -57,7 +58,7 @@ def hello_world():
     yield PASS, 'Hello (alphabets of the) World'
 
 
-@check(id='org.software.sil/check/has-R')
+@check(id='org.sil.software/check/has-R')
 # This check will run once for each item in `fonts`.
 # This is achieved via the iterag definition of font: fonts
 def has_cap_r_in_name(font):
