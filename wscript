@@ -23,6 +23,10 @@ fontfamily=APPNAME
 for dspace in ('Roman', 'Italic'):
     designspace('source/' + fontfamily + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
+                ap = 'source/${DS:FILENAME_BASE}_ap.xml',
+                opentype = fea('source/${DS:FILENAME_BASE}.fea',
+                    master = 'source/opentype/${DS:FILENAME_BASE}.fea',
+                    ),
                 pdf = fret(params="-r -oi"),
                 woff = woff()
     )
