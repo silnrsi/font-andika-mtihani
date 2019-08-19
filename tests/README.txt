@@ -6,7 +6,7 @@ running manually on generated TTF from the root of the project folder:
 fontbakery check-profile tests/ttfcheck.py results/*.ttf --html results/Andika-Mtihani-fontbakery-ttfchech-report.html
 
 running manually on generated TTF from the tests folder:
-fontbakery check-profile ttfcheck.py ../results/*.ttf --html results/Andika-Mtihani-fontbakery-ttfcheck-report.html
+fontbakery check-profile ttfcheck.py ../results/*.ttf --html ../results/Andika-Mtihani-fontbakery-ttfcheck-report.html
 
 using the ttfcheck smith subcommand as hard-coded in the project wscript:
 smith ttfcheck 
