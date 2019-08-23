@@ -6,12 +6,16 @@ from fontbakery.message import Message
 from fontbakery.checkrunner import (DEBUG, PASS, INFO, SKIP, WARN, FAIL, ERROR, Section)
 from fontbakery.fonts_profile import profile_factory # NOQA pylint: disable=unused-import
 
-profile = profile_factory(default_section=Section("SIL Fonts"))
+profile = profile_factory(default_section=Section("SIL font project"))
 
 # imports are used to mix in other external profiles
 profile_imports = [
     ['fontbakery.profiles', ['cff', 'cmap', 'dsig', 'glyf', 'gpos', 'head', 'hhea', 'hmtx', 'kern', 'loca', 'name', 'opentype', 'os2', 'post', 'shared_conditions', 'googlefonts', 'adobefonts']]
 ]
+# example of import params for SIL common profile and ABS profile directly in pysilfont
+# profile_imports = ['silfont.fbtests.common', 'silfont.fbtests.abs']
+
+
 
 # Our own checks below
 # See https://font-bakery.readthedocs.io/en/latest/developer/writing-profiles.html
@@ -22,7 +26,6 @@ expected_check_ids = (
     'org.sil.software/checks/helloworld',
     'org.sil.software/check/has-R'
 )
-
 
 # We use `check` as a decorator to wrap an ordinary python
 # function into an instance of FontBakeryCheck to prepare
