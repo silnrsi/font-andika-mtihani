@@ -8,7 +8,7 @@ from fontbakery.fonts_profile import profile_factory
 
 
 # imports are used to mix in other external profiles
-profile_imports =('fontbakery.profiles.opentype','fontbakery.profiles.name', 'fontbakery.profiles.head', 'fontbakery.profiles.opentype')
+profile_imports =('fontbakery.profiles.opentype','fontbakery.profiles.name', 'fontbakery.profiles.head', 'fontbakery.profiles.glyf')
 
 # example of import params for SIL common profile and ABS profile directly in pysilfont
 # profile_imports = ['silfont.fbtests.common', 'silfont.fbtests.abs']
