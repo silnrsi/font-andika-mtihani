@@ -1,19 +1,19 @@
 # template config file for local testing of ttfs with fontbakery.
 
+from fontbakery.checkrunner import Section, PASS, FAIL, WARN, ERROR, INFO, SKIP
 from fontbakery.callable import condition, check, disable
 from fontbakery.constants import PriorityLevel
 from fontbakery.message import Message
-from fontbakery.checkrunner import (DEBUG, PASS, INFO, SKIP, WARN, FAIL, ERROR, Section)
-from fontbakery.fonts_profile import profile_factory # NOQA pylint: disable=unused-import
+from fontbakery.fonts_profile import profile_factory
 
-profile = profile_factory(default_section=Section("SIL font project"))
 
 # imports are used to mix in other external profiles
-profile_imports = [
-    ['fontbakery.profiles', ['cff', 'cmap', 'dsig', 'glyf', 'gpos', 'head', 'hhea', 'hmtx', 'kern', 'loca', 'name', 'opentype', 'os2', 'post', 'shared_conditions', 'googlefonts', 'adobefonts']]
-]
+profile_imports =('fontbakery.profiles.opentype','fontbakery.profiles.name', 'fontbakery.profiles.head', 'fontbakery.profiles.opentype')
+
 # example of import params for SIL common profile and ABS profile directly in pysilfont
 # profile_imports = ['silfont.fbtests.common', 'silfont.fbtests.abs']
+
+profile = profile_factory(default_section=Section("SIL font project"))
 
 
 
