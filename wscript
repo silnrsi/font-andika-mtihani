@@ -20,3 +20,7 @@ for dspace in ('Roman', 'Italic'):
                 pdf = fret(params="-r -oi"),
                 woff = woff()
     )
+
+
+#def configure(ctx) :
+#    ctx.find_program('fontbakery')
