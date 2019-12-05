@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Fixing FontForge debris and normalizing UFOs..."
+echo "-----Fixing FontForge debris and normalizing UFOs..."
 psffixffglifs source/AndikaMtihani-Regular.ufo -p checkfix=fix     &
 psffixffglifs source/AndikaMtihani-Bold.ufo -p checkfix=fix        &
 psffixffglifs source/AndikaMtihani-Italic.ufo -p checkfix=fix      &
@@ -8,20 +8,20 @@ psffixffglifs source/AndikaMtihani-BoldItalic.ufo -p checkfix=fix  &
 wait
 
 # Building composites - needs to be done after normalization or may complain due to bad anchor coordinates
-echo "Building composites..."
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-Regular.ufo     &
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-Bold.ufo        &
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-Italic.ufo      &
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-BoldItalic.ufo  &
+echo "-----Building composites..."
+psfbuildcomp -q -i source/composites.txt source/AndikaMtihani-Regular.ufo     &
+psfbuildcomp -q -i source/composites.txt source/AndikaMtihani-Bold.ufo        &
+psfbuildcomp -q -i source/composites.txt source/AndikaMtihani-Italic.ufo      &
+psfbuildcomp -q -i source/composites.txt source/AndikaMtihani-BoldItalic.ufo  &
 wait
 
-echo "Updating production names in Regular..."
-psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -x
+echo "-----Updating production names in Regular..."
+psfsetpsnames -q -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -p backup=False -x
 
-echo "Updating glyph orders in Regular..."
-psfsetglyphorder --header sort_final -x -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -x
+echo "-----Updating glyph orders in Regular..."
+psfsetglyphorder -q --header sort_final -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -p backup=False -x
 
-echo "Syncing glyph orders, psnames, and other metadata to other UFOs..."
-psfsyncmasters source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace
+echo "-----Syncing glyph orders, psnames, and other metadata to other UFOs..."
+psfsyncmasters -q source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace
 
-echo "preflight completed!"
+echo "-----Preflight completed!"
