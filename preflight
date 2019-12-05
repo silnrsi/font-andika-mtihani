@@ -12,8 +12,8 @@ psfbuildcomp -i source/composites.txt source/AndikaMtihani-Bold.ufo -l source/lo
 psfbuildcomp -i source/composites.txt source/AndikaMtihani-Italic.ufo -l source/logs/compsI.log
 psfbuildcomp -i source/composites.txt source/AndikaMtihani-BoldItalic.ufo -l source/logs/compsBI.log
 
-psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/psnames.log
-psfsetglyphorder --header sort_final -x -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log
+psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/psnames.log -x
+psfsetglyphorder --header sort_final -x -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log -x
 
 # Following sync will copy psnames and glyphorder updates to all fonts
 psfsyncmasters source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace -l source/logs/sync.log
