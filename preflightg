@@ -1,7 +1,9 @@
 #!/bin/sh
 
 # Produce individual UFOs from Glyphs files
-psfglyphs2ufo source/AndikaMtihaniRoman.glyphs source -l source/logs/glyphs2ufoR.log
-psfglyphs2ufo source/AndikaMtihaniItalic.glyphs source -l source/logs/glyphs2ufoI.log
+echo "Updating UFOs from Glyphs file..."
+psfglyphs2ufo source/AndikaMtihaniRoman.glyphs source   &
+psfglyphs2ufo source/AndikaMtihaniItalic.glyphs source  &
+wait
 
 ./preflight

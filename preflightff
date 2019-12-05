@@ -1,19 +1,27 @@
 #!/bin/sh
 
-# Fix up glifs in files touched by FontForge and normalize
-psffixffglifs source/AndikaMtihani-Regular.ufo -p checkfix=fix -l source/logs/fixffR.log
-psffixffglifs source/AndikaMtihani-Bold.ufo -p checkfix=fix -l source/logs/fixffB.log
-psffixffglifs source/AndikaMtihani-Italic.ufo -p checkfix=fix -l source/logs/fixffI.log
-psffixffglifs source/AndikaMtihani-BoldItalic.ufo -p checkfix=fix -l source/logs/fixffBI.log
+echo "Fixing FontForge debris and normalizing UFOs..."
+psffixffglifs source/AndikaMtihani-Regular.ufo -p checkfix=fix     &
+psffixffglifs source/AndikaMtihani-Bold.ufo -p checkfix=fix        &
+psffixffglifs source/AndikaMtihani-Italic.ufo -p checkfix=fix      &
+psffixffglifs source/AndikaMtihani-BoldItalic.ufo -p checkfix=fix  &
+wait
 
 # Building composites - needs to be done after normalization or may complain due to bad anchor coordinates
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-Regular.ufo -l source/logs/compsR.log
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-Bold.ufo -l source/logs/compsB.log
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-Italic.ufo -l source/logs/compsI.log
-psfbuildcomp -i source/composites.txt source/AndikaMtihani-BoldItalic.ufo -l source/logs/compsBI.log
+echo "Building composites..."
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-Regular.ufo     &
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-Bold.ufo        &
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-Italic.ufo      &
+psfbuildcomp -i source/composites.txt source/AndikaMtihani-BoldItalic.ufo  &
+wait
 
-psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/psnames.log -x
-psfsetglyphorder --header sort_final -x -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -l source/logs/sortorder.log -x
+echo "Updating production names in Regular..."
+psfsetpsnames -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -x
 
-# Following sync will copy psnames and glyphorder updates to all fonts
-psfsyncmasters source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace -l source/logs/sync.log
+echo "Updating glyph orders in Regular..."
+psfsetglyphorder --header sort_final -x -i source/glyph_data.csv source/AndikaMtihani-Regular.ufo -x
+
+echo "Syncing glyph orders, psnames, and other metadata to other UFOs..."
+psfsyncmasters source/AndikaMtihaniRoman.designspace source/AndikaMtihaniItalic.designspace
+
+echo "preflight completed!"
