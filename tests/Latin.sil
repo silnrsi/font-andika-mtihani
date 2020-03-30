@@ -25,9 +25,6 @@
 Adhesion: \adhesion[characters=adhesion]
 
 \bigskip
-Here are some digits of pi: \pi[digits=1000]
-
-\bigskip
 
 \proof[size="10,11,12",heading=RevSwa]{text_revSwa}
 
