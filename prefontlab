@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# Make backups of ufos, so some data can be restored
+
+# Clear old backups if any exist or create fontlabtemp if not there
+if [ -d fontlabtemp ]; then
+  rm -r fontlabtemp/*
+else
+  mkdir -p fontlabtemp
+fi
+# Make the backups
+cp -r source/AndikaMtihani-Regular.ufo fontlabtemp/AndikaMtihani-Regular.backup
+cp -r source/AndikaMtihani-Italic.ufo fontlabtemp/AndikaMtihani-Italic.backup
+cp -r source/AndikaMtihani-Bold.ufo fontlabtemp/AndikaMtihani-Bold.backup
+cp -r source/AndikaMtihani-BoldItalic.ufo fontlabtemp/AndikaMtihani-BoldItalic.backup
+
