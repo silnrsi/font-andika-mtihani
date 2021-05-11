@@ -2,20 +2,21 @@
 
 # Correct the UFOs.  Uses checkfix=None since otherwise it would report errors and warnings prior them being fixed by the script
 echo "-----Updating the UFOs"
+set -e
 psffixfontlab source/AndikaMtihani-Regular.ufo/ -p checkfix=none
 psffixfontlab source/AndikaMtihani-Italic.ufo/ -p checkfix=none
 psffixfontlab source/AndikaMtihani-Bold.ufo/ -p checkfix=none
 psffixfontlab source/AndikaMtihani-BoldItalic.ufo/ -p checkfix=none
-# Once running smoothly, can at & to end of above 4 lines and uncomment the Wait below.
-# For now better not having log messages mixed to
+# Once running smoothly, can add "&" to end of above 4 lines and uncomment the "wait" below.
+# For now better not having log messages mixed together
 # wait
 
-# Delete any temp files left behind by fontlab.  These are named <font>.2nnn-nnnn.ufo
+# Delete old backups
 echo "-----Deleting backup UFOs created by FontLab"
 
-if ls source/AndikaMtihani-*.2*-*.ufo > /dev/null 2>&1
+if ls source/AndikaMtihani-*.*-*.ufo > /dev/null 2>&1
 then
-  rm -r source/AndikaMtihani-*.2*-*.ufo
+  rm -r source/AndikaMtihani-*.*-*.ufo
 fi
 
 ./preflight
