@@ -19,7 +19,7 @@ Second line
 Third line
 </string>
   <key>openTypeHeadCreated</key>
-  <string>2021/04/15 20:05:57</string>
+  <string>2021/11/22 16:01:51</string>
   <key>openTypeHheaAscender</key>
   <integer>2100</integer>
   <key>openTypeHheaDescender</key>
@@ -111,6 +111,10 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <integer>0</integer>
     <integer>0</integer>
     <integer>0</integer>
+  </array>
+  <key>openTypeOS2Selection</key>
+  <array>
+    <integer>7</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>700</integer>
