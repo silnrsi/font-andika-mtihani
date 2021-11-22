@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1275</string>
+  <string>3100</string>
   <key>com.schriftgestaltung.customName</key>
   <string>Italic</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
@@ -17,6 +17,8 @@
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
+  <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
+  <string>SIL International: Andika Mtihani Italic: 2021</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
