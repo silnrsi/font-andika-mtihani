@@ -20,7 +20,8 @@ for dspace in ('Roman', 'Italic'):
     designspace('source/' + fontfamily + dspace + '.designspace',
                 target = "${DS:FILENAME_BASE}.ttf",
                 pdf = fret(params="-r -oi"),
-                woff = woff()
+                woff = woff(),
+                version = VERSION,
     )
 
 
