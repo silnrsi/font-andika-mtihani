@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pysilfont = {editable = true, ref = "master", git = "https://github.com/silnrsi/pysilfont.git"}
+glyphslib = {ref = "main", git = "https://github.com/googlefonts/GlyphsLib.git"}
+ufolib2 = {ref = "master", git = "https://github.com/fonttools/ufoLib2.git"}
+fonttools = {ref = "main", git = "https://github.com/fonttools/fonttools.git"}
+glyphconstruction = {ref = "master", git = "https://github.com/typemytype/glyphConstruction.git"}
+fs = "*"
+mutatormath = "*"
+defcon = "*"
+fontmath = "*"
+
+[requires]
+python_version = "3.10"
