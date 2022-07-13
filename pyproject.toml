@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pysilfont"
+version = "0.1.0"
+description = "installing pysilfont and its dependencies for preflight"
+authors = ["Nicolas Spalinger <nicolas.spalinger@sil.org>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pysilfont = {git = "https://github.com/silnrsi/pysilfont.git", branch = "master"} 
+glyphsLib = {git = "https://github.com/googlefonts/GlyphsLib.git", branch = "main"}
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[virtualenvs]
+in-project = true
