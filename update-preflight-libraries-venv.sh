@@ -11,7 +11,8 @@ python3 --version
 
 echo "Setting up the virtual environment and entering inside"  
 python3 -m venv .venv
-source .venv/bin/activate
+# shellcheck disable=SC1091
+. .venv/bin/activate
 
 echo "Installing/Updating pip"
 python3 -m pip install --upgrade pip
