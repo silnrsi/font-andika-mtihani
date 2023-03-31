@@ -11,18 +11,23 @@ stages:
   - build
   - test
 
+variables:
+  DEBIAN_FRONTEND: noninteractive
+  TZ: Etc/UTC
+
 smith:
   stage: build
   before_script:
     - apt-get update -q -y
-    - apt-get install -q -y software-properties-common libterm-readline-gnu-perl
-    - add-apt-repository -y ppa:silnrsi/smith
+    - apt-get install -q -y tzdata software-properties-common libterm-readline-gnu-perl python3-pip
+    - add-apt-repository -y ppa:silnrsi/smith-py3
     - add-apt-repository -y ppa:git-core/ppa
     - add-apt-repository -y ppa:sile-typesetter/sile
-    - apt-get update -q -y 
-    - apt-get install sile python-odf python-odf-tools libjson-perl libtext-csv-perl libharfbuzz-bin -y
-    - apt-get install smith-font -y --no-install-recommends
-    - python3 -m pip install --upgrade git+https://github.com/googlefonts/fontbakery.git@main#egg=fontbakery 
+    - apt-get update -q -y
+    - apt-get install -q -y sile python3-odf python-odf-tools libjson-perl libtext-csv-perl libharfbuzz-bin
+    - apt-get install -q -y --no-install-recommends smith-font
+    - pip install fontbakery
+    - git config --global safe.directory $PWD
   script:
     - smith configure
     - smith build
