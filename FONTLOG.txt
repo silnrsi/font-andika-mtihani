@@ -12,7 +12,7 @@ family for testing UFO-based workflows. It is not intended to be generally
 useful as an installable font family, and may change significantly without
 notice. It will always be experimental and may not work as you expect!
 
-The family is based on Andika New Basic (https://scripts.sil.org/andika),
+The family is based on Andika New Basic (https://software.sil.org/andika),
 but with the following differences:
 
 - The double-storey forms of _a_ and _g_ are used, and the single-storey
@@ -59,10 +59,10 @@ and unattractive publications. Andika addresses those issues.
 A hallmark of Andika's versatility for global use is its selection of
 alternate letterforms. These alternates are accessible via OpenType and
 Graphite font features. For applications that do not support OpenType or
-Graphite, TypeTuner Web (http://scripts.sil.org/ttw/fonts2go.cgi) allows
+Graphite, TypeTuner Web (https://scripts.sil.org/ttw/fonts2go.cgi) allows
 you to download a custom font with your choice of which forms should be
 the default. TypeTuner is also available as a standalone utility -
-(http://scripts.sil.org/TypeTuner).
+(https://scripts.sil.org/TypeTuner).
 
 Andika New Basic is a limited-character-set version of Andika that includes
 a full family of styles (Regular, Bold, Italic and Bold-Italic).
@@ -130,7 +130,7 @@ Andika New Basic also includes one new feature:
    Capital J alternate
 
 More detail on features can be seen at
-http://scripts.sil.org/SILUnicodeRF_Features.
+https://scripts.sil.org/SILUnicodeRF_Features.
 
 
 A Note Regarding the Open Font License and TypeTuner
@@ -270,28 +270,28 @@ be sure to add your name (N), email (E), web-address (W) and description (D).
 This list is sorted by last name in alphabetical order.)
 
 N: Don Collingsworth
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Contributed some extended Latin glyphs
 
 N: Victor Gaultney
-E: http://scripts.sil.org/support
-W: http://www.sil.org/~gaultney/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Original Designer
 
 N: Eric Hays
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Contributed some extended Latin glyphs
 
 N: Annie Olsen
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Lead Designer
 
 N: Julie Remington
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Contributed some extended Latin glyphs
 
 N: Pablo Ugerman
@@ -299,8 +299,8 @@ W: http://www.ugrdesign.com.ar/
 D: Volunteer designer for much of Bold face
 
 N: SIL font engineers
-E: http://scripts.sil.org/support
-W: http://scripts.sil.org/
+E: https://software.sil.org/about/contact/
+W: https://software.sil.org/wstech/
 D: Graphite, OpenType, and TypeTuner code, and build support
 
 
@@ -309,6 +309,6 @@ SIL International.
 
 For more information please visit the Andika page on SIL
 International's Computers and Writing Systems website:
-http://scripts.sil.org/andika
+https://software.sil.org/andika/
 
-Support through the website: http://scripts.sil.org/Support
+Support through the website: https://software.sil.org/about/contact/

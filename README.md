@@ -4,7 +4,7 @@ Andika Mtihani _(Swahili: to sit a written exam)_ is a Latin script font family 
 
 ## Project status [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Fonts_AndikaMtihani/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_AndikaMtihani&guest=1)
 
-The family is based on [Andika New Basic](https://scripts.sil.org/andika), but with the following differences:
+The family is based on [Andika New Basic](https://software.sil.org/andika), but with the following differences:
 
 - The double-storey forms of _a_ and _g_ are used, and the single-storey ones are not available. This is to help distinguish the font from the main Andika Basics family.
 - The character set support has been initially reduced to Mac Roman + Windows Codepage 1252 + a few more useful characters.
