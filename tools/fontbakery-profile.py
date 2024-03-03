@@ -8,7 +8,6 @@ PROFILE = {
         "SIL Checks": [
             "org.sil/check/name/version_format",
             "org.sil/check/number_widths",
-            "org.sil/check/name/version_format",
             "org.sil/check/whitespace_widths",
         ],
     },
