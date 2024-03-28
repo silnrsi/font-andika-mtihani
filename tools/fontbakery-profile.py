@@ -4,6 +4,7 @@ SIL fontbakery profile  <https://software.sil.org/fonts/>
 # pylint: disable=line-too-long  # This is data, not code
 PROFILE = {
     "include_profiles": ["universal", "opentype", "googlefonts"],
+    "check_definitions": ["silfont.fbtests.silttfchecks"],
     "sections": {
         "SIL Checks": [
             "org.sil/check/name/version_format",
